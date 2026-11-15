@@ -81,20 +81,14 @@ function loop(st){
   st.raf=requestAnimationFrame(tick);
 }
 
-const partIntro={
- 'part1':['Double plays, range plays, slow rollers, first-base plays, and relays & cutoffs.'],
- 'part2':['Bunt defense, pickoffs & rundowns, tag plays at the bases, and infield-in with a runner on third.'],
- 'postseason-2026':['Situational plays from the 2026 Wild Card, Division Series, LCS and World Series.','Coaching points here are drafts until Coach Cassady reviews them. One that the video contradicted has been corrected and is marked.']
-};
-let DATA=null,built={};
-function renderPart(part){
-  const main=document.getElementById('plays');
-  if(built[part.id]){return built[part.id]}
-  const wrap=$('div',{class:'part',id:'part-'+part.id});
-  wrap.append($('div',{class:'part-head'},$('h2',{class:'part-title',text:part.title}),...(partIntro[part.id]||[]).map(t=>$('p',{text:t}))));
-  for(const c of part.categories){
+let DATA=null;
+function render(data){
+  const main=document.getElementById('plays');main.textContent='';
+  const nav=document.getElementById('cat-nav');
+  for(const c of data.categories){
+    nav.append($('a',{href:'#'+c.id},$('span',{text:String(c.plays.length)}),document.createTextNode(c.name)));
     const sec=$('section',{class:'cat',id:c.id},$('h2',{},document.createTextNode(c.name),$('small',{text:c.plays.length+' PLAYS'})));
-    if(c.intro.length)sec.append($('div',{class:'cat-intro'},$('b',{text:part.id==='part2'?'COACH CASSADY':'NOTE'}),...c.intro.map(t=>$('p',{text:t}))));
+    if(c.intro.length)sec.append($('div',{class:'cat-intro'},$('b',{text:c.intro_label||'NOTE'}),...c.intro.map(t=>$('p',{text:t}))));
     for(const p of c.plays){
       const {media,side}=makePlayer(p);
       const st=p.coaching_point_status;
@@ -104,44 +98,23 @@ function renderPart(part){
       if(p.situation)side.append($('p',{class:'players',text:'Situation: '+p.situation}));
       if(p.official_play)side.append($('p',{class:'players',text:'Official: '+p.official_play}));
       side.append($('p',{class:'players',text:'Players: '+p.players}));
-      sec.append($('article',{class:'play',id:p.id.toLowerCase()},
-        $('div',{class:'play-head'},$('p',{class:'kicker'},document.createTextNode(p.id+' '),$('span',{text:'· '+p.game+' · '+p.date})),$('h3',{text:p.title}),$('p',{class:'desc',text:p.description})),
+      const kick=$('p',{class:'kicker'},document.createTextNode(p.id+' '),p.source?$('em',{class:'src-badge',text:p.source.toUpperCase()}):null,$('span',{text:' · '+p.game+' · '+p.date}));
+      sec.append($('article',{class:'play'+(p.source?' ps':''),id:p.id.toLowerCase()},
+        $('div',{class:'play-head'},kick,$('h3',{text:p.title}),$('p',{class:'desc',text:p.description})),
         media,side));
     }
-    wrap.append(sec);
+    main.append(sec);
   }
-  main.append(wrap);built[part.id]=wrap;return wrap;
-}
-function showPart(id,scrollTarget){
-  const part=DATA.parts.find(p=>p.id===id)||DATA.parts[0];
-  for(const p of DATA.parts){const w=built[p.id];if(w)w.hidden=p.id!==part.id}
-  renderPart(part).hidden=false;
-  for(const p of players)if(!p.video.paused)p.video.pause();
-  for(const a of document.querySelectorAll('.part-tabs a'))a.setAttribute('aria-current',a.dataset.part===part.id?'page':'false');
-  const nav=document.getElementById('cat-nav');nav.textContent='';
-  for(const c of part.categories)nav.append($('a',{href:'#'+c.id},$('span',{text:String(c.plays.length)}),document.createTextNode(c.name)));
-  document.querySelector('.top-meta').textContent='CLIP LIBRARY · '+part.name.toUpperCase();
-  if(scrollTarget){const t=document.getElementById(scrollTarget);if(t)t.scrollIntoView()}
 }
 function route(){
-  const h=decodeURIComponent(location.hash.slice(1));
-  if(!h){showPart(DATA.parts[0].id);return}
-  const lc=h.toLowerCase();
-  for(const p of DATA.parts){
-    if(p.id===lc){showPart(p.id);document.getElementById('top').scrollIntoView();return}
-    for(const c of p.categories){
-      if(c.id===lc){showPart(p.id,c.id);return}
-      if(c.plays.some(x=>x.id.toLowerCase()===lc)){showPart(p.id,lc);return}
-    }
-  }
-  if(lc==='top'){return}
-  showPart(DATA.parts[0].id);
+  const h=decodeURIComponent(location.hash.slice(1)).toLowerCase();
+  if(!h)return;
+  let id=(DATA.legacy_hashes||{})[h]||h;
+  const t=document.getElementById(id);
+  if(t)t.scrollIntoView();
 }
 fetch('clips.json').then(r=>r.json()).then(data=>{
-  DATA=data;
-  const main=document.getElementById('plays');main.textContent='';
-  const tabs=document.getElementById('part-tabs');
-  for(const p of data.parts){const n=p.categories.reduce((a,c)=>a+c.plays.length,0);tabs.append($('a',{href:'#'+p.id,'data-part':p.id},document.createTextNode(p.name),$('span',{text:n+' plays'})))}
+  DATA=data;render(data);
   window.addEventListener('hashchange',route);
   route();
 }).catch(e=>{console.error(e);document.getElementById('plays').innerHTML='<p class="loading">Could not load the plays. Refresh to try again.</p>'});
