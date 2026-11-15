@@ -95,7 +95,7 @@ function render(data){
       if(p.situation)side.append($('p',{class:'players',text:'Situation: '+p.situation}));
       if(p.official_play)side.append($('p',{class:'players',text:'Official: '+p.official_play}));
       side.append($('p',{class:'players',text:'Players: '+p.players}));
-      const kick=$('p',{class:'kicker'},document.createTextNode(p.id+' '),p.source?$('em',{class:'src-badge',text:p.source.toUpperCase()}):null,$('span',{text:' · '+p.game+' · '+p.date}));
+      const kick=$('p',{class:'kicker'},document.createTextNode(p.id+' '),p.pfp_type?$('em',{class:'src-badge pfp',text:p.pfp_type.toUpperCase()}):null,p.source?$('em',{class:'src-badge',text:p.source.toUpperCase()}):null,$('span',{text:' · '+p.game+' · '+p.date}));
       sec.append($('article',{class:'play'+(p.source?' ps':''),id:p.id.toLowerCase()},
         $('div',{class:'play-head'},kick,$('h3',{text:p.title}),$('p',{class:'desc',text:p.description})),
         media,side));
@@ -110,7 +110,7 @@ function route(){
   const t=document.getElementById(id);
   if(t)t.scrollIntoView();
 }
-fetch('clips.json?v=1794719277',{cache:'no-store'}).then(r=>r.json()).then(data=>{
+fetch('clips.json?v=1794719978',{cache:'no-store'}).then(r=>r.json()).then(data=>{
   DATA=data;render(data);
   window.addEventListener('hashchange',route);
   route();
