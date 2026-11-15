@@ -110,7 +110,7 @@ function route(){
   const t=document.getElementById(id);
   if(t)t.scrollIntoView();
 }
-fetch('clips.json').then(r=>r.json()).then(data=>{
+fetch('clips.json?v=1794719277',{cache:'no-store'}).then(r=>r.json()).then(data=>{
   DATA=data;render(data);
   window.addEventListener('hashchange',route);
   route();
