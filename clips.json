@@ -1,0 +1,2958 @@
+{
+ "title": "Byrd Baseball Clip Library",
+ "parts": [
+  {
+   "id": "part1",
+   "name": "Part 1",
+   "title": "Clip Library Part 1",
+   "categories": [
+    {
+     "id": "double-plays",
+     "name": "Double Plays",
+     "intro": [],
+     "plays": [
+      {
+       "id": "DP01",
+       "title": "6-4-3 DP",
+       "game": "TB @ CLE",
+       "date": "Oct 17, 2026 · LCS",
+       "players": "Taylor Walls, Brayan Rocchio, Travis Bazzana, Nathaniel Lowe",
+       "description": "Taylor Walls grounds into a double play, shortstop Brayan Rocchio to second baseman Travis Bazzana to first baseman Nathaniel Lowe. Richie Palacios out at 2nd. Taylor Walls out at 1st.",
+       "coaching_point": "SS feeds 2B chest-high with an underhand/firm flip; 2B uses momentum through the bag to turn.",
+       "coach_notes": [],
+       "video": "clips/DP01.mp4",
+       "poster": "posters/DP01.jpg",
+       "duration": 10.9,
+       "drive_id": "1rJQpd2iTcneqSTj7wu8eRopycEP9pjle",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field & feed 2B",
+         "start": 4.4,
+         "end": 5.9,
+         "confidence": "medium",
+         "note": "Wide shot; SS is small in frame."
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive, turn & throw",
+         "start": 5.5,
+         "end": 7.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.8,
+         "end": 8.2,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "DP02",
+       "title": "6-4-3 DP",
+       "game": "CWS @ CLE",
+       "date": "Oct 10, 2026 · Division Series",
+       "players": "Patrick Bailey, Colson Montgomery, Chase Meidroth, Munetaka Murakami",
+       "description": "Patrick Bailey grounds into a double play, shortstop Colson Montgomery to second baseman Chase Meidroth to first baseman Munetaka Murakami. Travis Bazzana out at 2nd. Patrick Bailey out at 1st.",
+       "coaching_point": "SS feeds 2B chest-high with an underhand/firm flip; 2B uses momentum through the bag to turn.",
+       "coach_notes": [],
+       "video": "clips/DP02.mp4",
+       "poster": "posters/DP02.jpg",
+       "duration": 10.66,
+       "drive_id": "1oQ1QOQ-n5wBzpJL1zD2LnQvxSwM1XtR2",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field & feed 2B",
+         "start": 4.2,
+         "end": 5.7,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive, turn & throw",
+         "start": 5.2,
+         "end": 6.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.3,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "DP03",
+       "title": "4-6-3 DP",
+       "game": "MIL @ TB",
+       "date": "Oct 26, 2026 · World Series",
+       "players": "Nick Fortes, Brice Turang, Cooper Pratt, Jake Bauers",
+       "description": "Nick Fortes grounds into a double play, second baseman Brice Turang to shortstop Cooper Pratt to first baseman Jake Bauers. Victor Mesa Jr. out at 2nd. Nick Fortes out at 1st.",
+       "coaching_point": "2B opens and feeds to SS's glove side; SS crosses the bag and clears the runner.",
+       "coach_notes": [],
+       "video": "clips/DP03.mp4",
+       "poster": "posters/DP03.jpg",
+       "duration": 11.08,
+       "drive_id": "15hE0LJCG3PGcr5VtSR5FgBXGClfyVrpv",
+       "segments": [
+        {
+         "pos": "2B",
+         "label": "2B: field & feed SS",
+         "start": 4.2,
+         "end": 5.9,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive, turn & throw",
+         "start": 5.4,
+         "end": 6.9,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.6,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "DP04",
+       "title": "4-6-3 DP",
+       "game": "CLE @ TB",
+       "date": "Oct 13, 2026 · LCS",
+       "players": "Yandy Díaz, Travis Bazzana, Brayan Rocchio, Nathaniel Lowe",
+       "description": "Yandy Díaz grounds into a double play, second baseman Travis Bazzana to shortstop Brayan Rocchio to first baseman Nathaniel Lowe. Liam Hicks to 3rd. Taylor Walls out at 2nd. Yandy Díaz out at 1st.",
+       "coaching_point": "2B opens and feeds to SS's glove side; SS crosses the bag and clears the runner.",
+       "coach_notes": [],
+       "video": "clips/DP04.mp4",
+       "poster": "posters/DP04.jpg",
+       "duration": 11.04,
+       "drive_id": "1ywB7YksDE11YCbkXg9wR8kShSDVnSYqs",
+       "segments": [
+        {
+         "pos": "2B",
+         "label": "2B: field & feed SS",
+         "start": 4.6,
+         "end": 6.0,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive, turn & throw",
+         "start": 5.6,
+         "end": 6.9,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 7.0,
+         "end": 8.2,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "DP05",
+       "title": "5-4-3 DP",
+       "game": "MIL @ SD",
+       "date": "Oct 7, 2026 · Division Series",
+       "players": "Cooper Pratt, Manny Machado, Jake Cronenworth, Ty France",
+       "description": "Cooper Pratt grounds into a double play, third baseman Manny Machado to second baseman Jake Cronenworth to first baseman Ty France. Jake Bauers out at 2nd. Cooper Pratt out at 1st.",
+       "coaching_point": "3B catches and throws fast to the bag; 2B squares to 3B early and turns quickly.",
+       "coach_notes": [],
+       "video": "clips/DP05.mp4",
+       "poster": "posters/DP05.jpg",
+       "duration": 11.16,
+       "drive_id": "1WYY_Q54wvAXdG28CLJAKY9qLv2o5r6yU",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: field & throw to 2B",
+         "start": 4.2,
+         "end": 5.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive, turn & throw",
+         "start": 5.4,
+         "end": 6.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.6,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "DP06",
+       "title": "1-6-3 DP",
+       "game": "STL @ PIT",
+       "date": "Sep 24, 2026 · Regular season",
+       "players": "JJ Wetherholt, Paul Skenes, Konnor Griffin, Spencer Horwitz",
+       "description": "JJ Wetherholt grounds into a double play, pitcher Paul Skenes to shortstop Konnor Griffin to first baseman Spencer Horwitz. Nathan Church out at 2nd. JJ Wetherholt out at 1st.",
+       "coaching_point": "Pitcher fields, turns glove side, and leads SS to the bag with a firm chest-high throw.",
+       "coach_notes": [],
+       "video": "clips/DP06.mp4",
+       "poster": "posters/DP06.jpg",
+       "duration": 10.99,
+       "drive_id": "1K5pQCPUMTNRklT7q0nqNPeYOyrd5jjJs",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: field, turn & feed SS",
+         "start": 3.8,
+         "end": 5.4,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive, turn & throw",
+         "start": 5.2,
+         "end": 6.7,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.6,
+         "end": 7.9,
+         "confidence": "medium",
+         "note": "Motion blur on the catch."
+        }
+       ]
+      },
+      {
+       "id": "DP07",
+       "title": "3-6-3 DP",
+       "game": "PHI @ ATL",
+       "date": "Sep 30, 2026 · Wild Card",
+       "players": "Michael Harris II, Alec Bohm, Trea Turner",
+       "description": "Michael Harris II grounds into a double play, first baseman Alec Bohm to shortstop Trea Turner to first baseman Alec Bohm. Austin Riley out at 2nd. Michael Harris II out at 1st.",
+       "coaching_point": "1B steps inside the line to throw to SS, then hustles back to the bag for the return throw.",
+       "coach_notes": [],
+       "video": "clips/DP07.mp4",
+       "poster": "posters/DP07.jpg",
+       "duration": 10.8,
+       "drive_id": "1ULL_6JXLZjOBprUzOyy5IWh5IZVxpysC",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: field & throw to SS",
+         "start": 3.9,
+         "end": 5.3,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & return throw",
+         "start": 5.2,
+         "end": 6.7,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B (2nd touch): back to the bag & receive",
+         "start": 6.4,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "range",
+     "name": "Hard Hit Balls & Range Plays",
+     "intro": [],
+     "plays": [
+      {
+       "id": "RNG01",
+       "title": "SS hole",
+       "game": "BAL @ ATH",
+       "date": "Aug 30, 2026 · Regular season",
+       "players": "Lawrence Butler, Gunnar Henderson, Coby Mayo",
+       "description": "Lawrence Butler grounds out, shortstop Gunnar Henderson to first baseman Coby Mayo.",
+       "coaching_point": "SS gets deep in the hole, plants the back foot, and makes a strong throw on line to 1B.",
+       "coach_notes": [],
+       "video": "clips/RNG01.mp4",
+       "poster": "posters/RNG01.jpg",
+       "duration": 11.4,
+       "drive_id": "1Ih1X-2gRhO6etIdTJ1j1NqLW_0MlWNsG",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: dive/backhand, get up & throw",
+         "start": 4.5,
+         "end": 7.4,
+         "confidence": "medium"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 7.0,
+         "end": 8.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "RNG02",
+       "title": "SS hole",
+       "game": "CWS @ CHC",
+       "date": "Aug 19, 2026 · Regular season",
+       "players": "Munetaka Murakami, Nico Hoerner, Michael Busch",
+       "description": "Munetaka Murakami grounds out, shortstop Nico Hoerner to first baseman Michael Busch.",
+       "coaching_point": "SS gets deep in the hole, plants the back foot, and makes a strong throw on line to 1B.",
+       "coach_notes": [],
+       "video": "clips/RNG02.mp4",
+       "poster": "posters/RNG02.jpg",
+       "duration": 13.62,
+       "drive_id": "12HL1DZMpTiYPXP40GK9DrKkrzSG8qPau",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: dive, get up & throw",
+         "start": 4.4,
+         "end": 7.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.9,
+         "end": 8.1,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "RNG03",
+       "title": "3B range DP",
+       "game": "HOU @ SD",
+       "date": "Aug 7, 2026 · Regular season",
+       "players": "Christian Walker, Manny Machado, Jake Cronenworth",
+       "description": "Christian Walker grounds out, third baseman Manny Machado to first baseman Jake Cronenworth.",
+       "coaching_point": "3B moves laterally with first-step quickness and stays low through the catch before throwing.",
+       "coach_notes": [],
+       "video": "clips/RNG03.mp4",
+       "poster": "posters/RNG03.jpg",
+       "duration": 10.86,
+       "drive_id": "1GloSNPwUc4SYHNWeKY-4GvDiLo3Sq6RE",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: lateral range & throw",
+         "start": 4.3,
+         "end": 7.1,
+         "confidence": "medium",
+         "note": "Wide shot with motion blur."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 7.0,
+         "end": 8.3,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "RNG04",
+       "title": "2B range DP",
+       "game": "TOR @ HOU",
+       "date": "Aug 4, 2026 · Regular season",
+       "players": "Yainer Diaz, Ernie Clement, Vladimir Guerrero Jr",
+       "description": "Yainer Diaz grounds out, second baseman Ernie Clement to first baseman Vladimir Guerrero Jr.",
+       "coaching_point": "2B rounds the ball, gets feet under him, and throws accurately from a hard-hit, high-xBA grounder.",
+       "coach_notes": [],
+       "video": "clips/RNG04.mp4",
+       "poster": "posters/RNG04.jpg",
+       "duration": 11.04,
+       "drive_id": "1I_c4UejA0s1fbJKgw-c-9wkU1D6sDvdq",
+       "segments": [
+        {
+         "pos": "2B",
+         "label": "2B: range, set & throw",
+         "start": 4.5,
+         "end": 7.2,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 7.0,
+         "end": 8.4,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "RNG05",
+       "title": "3B range",
+       "game": "SD @ AZ",
+       "date": "Aug 4, 2026 · Regular season",
+       "players": "Ty France, Nolan Arenado, Tim Tawa",
+       "description": "Ty France grounds out, third baseman Nolan Arenado to first baseman Tim Tawa.",
+       "coaching_point": "3B range play: drop step, read the hop, set the feet, and make a strong, accurate throw across the diamond.",
+       "coach_notes": [],
+       "video": "clips/RNG05.mp4",
+       "poster": "posters/RNG05.jpg",
+       "duration": 11.89,
+       "drive_id": "1hQFowlAb1w3sUaxHIpJ4syZdDaR7ehWh",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: range & throw",
+         "start": 4.1,
+         "end": 6.8,
+         "confidence": "medium",
+         "note": "Wide shot; 3B is small in frame."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.9,
+         "end": 8.3,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "RNG06",
+       "title": "SS hole",
+       "game": "LAA @ HOU",
+       "date": "Aug 18, 2026 · Regular season",
+       "players": "Yordan Alvarez, Zach Neto, Nolan Schanuel",
+       "description": "Yordan Alvarez grounds out, shortstop Zach Neto to first baseman Nolan Schanuel.",
+       "coaching_point": "SS in the hole: cross-over to get around the ball, backhand off the lead foot, plant hard on the right leg, and throw through the target.",
+       "coach_notes": [],
+       "video": "clips/RNG06.mp4",
+       "poster": "posters/RNG06.jpg",
+       "duration": 11.04,
+       "drive_id": "13qnjFx6QlO5_45q7QfVG67esk30J75cL",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: range in the hole, backhand & jump-throw",
+         "start": 4.4,
+         "end": 6.5,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 7.0,
+         "end": 8.5,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "RNG07",
+       "title": "2B range",
+       "game": "MIN @ KC",
+       "date": "Aug 6, 2026 · Regular season",
+       "players": "Jac Caglianone, Kody Clemens, Royce Lewis",
+       "description": "Jac Caglianone grounds out, second baseman Kody Clemens to first baseman Royce Lewis. Bobby Witt Jr. to 3rd.",
+       "coaching_point": "2B range play: first-step crossover, field it on the move, and turn the shoulders to make a firm throw to 1B.",
+       "coach_notes": [],
+       "video": "clips/RNG07.mp4",
+       "poster": "posters/RNG07.jpg",
+       "duration": 10.63,
+       "drive_id": "1HlkoMkuufCaHatnGEiSlzFMi80XWbJd2",
+       "segments": [
+        {
+         "pos": "2B",
+         "label": "2B: range deep, field & throw",
+         "start": 4.4,
+         "end": 7.1,
+         "confidence": "medium",
+         "note": "Wide shot; 2B is small in frame."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.8,
+         "end": 8.0,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "slow-rollers",
+     "name": "Slow Roller & Charge Plays",
+     "intro": [],
+     "plays": [
+      {
+       "id": "SLW01",
+       "title": "3B charge DP",
+       "game": "TB @ MIL",
+       "date": "Oct 23, 2026 · World Series",
+       "players": "Yandy Díaz, Joey Ortiz, Jake Bauers",
+       "description": "Yandy Díaz grounds out softly, third baseman Joey Ortiz to first baseman Jake Bauers.",
+       "coaching_point": "3B charges the soft grounder, fields it outside the left foot, and throws on the run.",
+       "coach_notes": [],
+       "video": "clips/SLW01.mp4",
+       "poster": "posters/SLW01.jpg",
+       "duration": 10.93,
+       "drive_id": "16u7CCLhGB5qVoBAZMvkGZz6r05ecXQ1D",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: charge & throw on the run",
+         "start": 4.3,
+         "end": 6.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.6,
+         "end": 8.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "SLW02",
+       "title": "SS charge",
+       "game": "LAD @ ATL",
+       "date": "Oct 6, 2026 · Division Series",
+       "players": "Mike Yastrzemski, Mookie Betts, Freddie Freeman",
+       "description": "Mike Yastrzemski grounds out softly, shortstop Mookie Betts to first baseman Freddie Freeman.",
+       "coaching_point": "SS attacks the slow ball and gets rid of it quickly; don't wait on a soft grounder.",
+       "coach_notes": [],
+       "video": "clips/SLW02.mp4",
+       "poster": "posters/SLW02.jpg",
+       "duration": 11.02,
+       "drive_id": "1e0iQW6I4E2OuQ5qT0a6bb7CRYZmy6vuC",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: charge, field & throw",
+         "start": 4.4,
+         "end": 6.7,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.6,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "SLW03",
+       "title": "P/C charge",
+       "game": "SD @ SF",
+       "date": "Sep 13, 2026 · Regular season",
+       "players": "Dustin Harris, Andrew Knizner, Bryce Eldridge",
+       "description": "Dustin Harris grounds out, catcher Andrew Knizner to first baseman Bryce Eldridge. Fernando Tatis Jr. to 2nd.",
+       "coaching_point": "Catcher/pitcher pounce on the dribbler and throw inside the line so 1B has a clean target.",
+       "coach_notes": [],
+       "video": "clips/SLW03.mp4",
+       "poster": "posters/SLW03.jpg",
+       "duration": 12.91,
+       "drive_id": "1dsjA_FYRgdNogoF-WE1JDf_i7OOL4Wp5",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: pounce & throw",
+         "start": 4.7,
+         "end": 6.5,
+         "confidence": "medium",
+         "note": "Catcher is small and in shadow."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.4,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "SLW04",
+       "title": "3B charge",
+       "game": "CLE @ CWS",
+       "date": "Oct 8, 2026 · Division Series",
+       "players": "Steven Kwan, Miguel Vargas, Munetaka Murakami",
+       "description": "Steven Kwan grounds out softly, third baseman Miguel Vargas to first baseman Munetaka Murakami.",
+       "coaching_point": "3B charges the very soft (29 mph) roller, fields it outside the left foot, and throws on the run.",
+       "coach_notes": [],
+       "video": "clips/SLW04.mp4",
+       "poster": "posters/SLW04.jpg",
+       "duration": 11.42,
+       "drive_id": "1pf4zh3MwnXgi6oMTxtXxJ_N5YrYhPzaa",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: charge, glove outside the left foot, throw on the run",
+         "start": 4.6,
+         "end": 6.5,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.7,
+         "end": 7.9,
+         "confidence": "medium",
+         "note": "The catch happens across a camera cut."
+        }
+       ]
+      },
+      {
+       "id": "SLW05",
+       "title": "SS charge",
+       "game": "ATL @ HOU",
+       "date": "Sep 20, 2026 · Regular season",
+       "players": "Ronald Acuña Jr., Jeremy Peña, Christian Walker",
+       "description": "Ronald Acuña Jr. grounds out softly, shortstop Jeremy Peña to first baseman Christian Walker. Drake Baldwin to 2nd.",
+       "coaching_point": "SS attacks the slow ball and gets rid of it quickly; don't wait on a soft grounder.",
+       "coach_notes": [],
+       "video": "clips/SLW05.mp4",
+       "poster": "posters/SLW05.jpg",
+       "duration": 12.88,
+       "drive_id": "1-f9AwoAR3jLeWjf-2NlQ6ZPNXcLGQwaU",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: charge & quick release",
+         "start": 4.3,
+         "end": 6.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.8,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "SLW06",
+       "title": "P/C charge",
+       "game": "PHI @ NYM",
+       "date": "Sep 18, 2026 · Regular season",
+       "players": "Trea Turner, Zac Thornton, Brett Baty",
+       "description": "Trea Turner grounds out, pitcher Zac Thornton to first baseman Brett Baty. Kyle Schwarber to 2nd.",
+       "coaching_point": "Pitcher pounces off the mound on the dribbler, sets the feet, and throws inside the line so 1B has a clean target.",
+       "coach_notes": [],
+       "video": "clips/SLW06.mp4",
+       "poster": "posters/SLW06.jpg",
+       "duration": 11.31,
+       "drive_id": "1oYIO0--y3jTFJVKx5B7JtIvVrX9880dt",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pounce, field & throw",
+         "start": 4.2,
+         "end": 6.9,
+         "confidence": "medium",
+         "note": "Pitcher dives and stays low; hard to see."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.6,
+         "end": 7.8,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "first-base",
+     "name": "First Base Plays",
+     "intro": [
+      "The deck titles this section \"Pitcher Fielding Plays\". The clips are 1B stretches on long throws (1B01, 1B02, 1B05, 1B06) plus 3-1 feeds to the pitcher covering first (1B03, 1B04)."
+     ],
+     "plays": [
+      {
+       "id": "1B01",
+       "title": "Long throw",
+       "game": "MIN @ SEA",
+       "date": "Aug 1, 2026 · Regular season",
+       "players": "Cal Raleigh, Ryan Kreidler, Royce Lewis",
+       "description": "Cal Raleigh grounds out, shortstop Ryan Kreidler to first baseman Royce Lewis.",
+       "coaching_point": "1B finds the bag, waits to commit, and stretches toward the throw to save the long throw from the left side.",
+       "coach_notes": [],
+       "video": "clips/1B01.mp4",
+       "poster": "posters/1B01.jpg",
+       "duration": 10.86,
+       "drive_id": "1BNOqBMCoEEgdKgpR2swDGXU5y9n-fgXu",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: deep field & long throw",
+         "start": 4.4,
+         "end": 6.5,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: stretch & receive",
+         "start": 6.6,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "1B02",
+       "title": "Long throw",
+       "game": "CLE @ BAL",
+       "date": "Sep 8, 2026 · Regular season",
+       "players": "Patrick Bailey, Gunnar Henderson, Pete Alonso",
+       "description": "Patrick Bailey grounds out, shortstop Gunnar Henderson to first baseman Pete Alonso.",
+       "coaching_point": "1B finds the bag, waits to commit, and stretches toward the throw to save the long throw from the left side.",
+       "coach_notes": [],
+       "video": "clips/1B02.mp4",
+       "poster": "posters/1B02.jpg",
+       "duration": 10.83,
+       "drive_id": "1OvUub_Lw-dGvlQppxdnUUTU4kqv57UjV",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field & throw",
+         "start": 5.0,
+         "end": 6.9,
+         "confidence": "medium",
+         "note": "Wide shot; SS is small in frame."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: stretch & receive",
+         "start": 7.0,
+         "end": 8.4,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "1B03",
+       "title": "3-1 feed to covering P",
+       "game": "CLE @ TB",
+       "date": "Oct 19, 2026 · LCS",
+       "players": "Steven Kwan, Jonathan Aranda, Bryan Baker",
+       "description": "Steven Kwan grounds out, first baseman Jonathan Aranda to pitcher Bryan Baker.",
+       "coaching_point": "1B fields it, gives an early, chest-high underhand feed leading the pitcher to the bag; pitcher runs a banana route and tags the inside edge.",
+       "coach_notes": [],
+       "video": "clips/1B03.mp4",
+       "poster": "posters/1B03.jpg",
+       "duration": 10.55,
+       "drive_id": "1GmSWhP_J299zvYr5GK_jWCG1CVYRbsIb",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: field & underhand feed",
+         "start": 4.8,
+         "end": 6.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "P",
+         "label": "P: banana route, receive & tag the bag",
+         "start": 5.0,
+         "end": 7.8,
+         "confidence": "medium",
+         "note": "Wide shot."
+        }
+       ]
+      },
+      {
+       "id": "1B04",
+       "title": "3-1 feed to covering P",
+       "game": "TB @ CLE",
+       "date": "Oct 15, 2026 · LCS",
+       "players": "Taylor Walls, Nathaniel Lowe, Hunter Gaddis",
+       "description": "Taylor Walls grounds out, first baseman Nathaniel Lowe to pitcher Hunter Gaddis. Jorge Mateo to 3rd.",
+       "coaching_point": "1B fields it, gives an early, chest-high underhand feed leading the pitcher to the bag; pitcher runs a banana route and tags the inside edge.",
+       "coach_notes": [],
+       "video": "clips/1B04.mp4",
+       "poster": "posters/1B04.jpg",
+       "duration": 10.57,
+       "drive_id": "1_hfNQvUE9VrcRykzcDk0eFYXlUkqQC2L",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: field & feed the pitcher",
+         "start": 4.5,
+         "end": 7.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "P",
+         "label": "P: cover 1B & receive",
+         "start": 4.6,
+         "end": 7.9,
+         "confidence": "medium"
+        }
+       ]
+      },
+      {
+       "id": "1B05",
+       "title": "Long throw stretch",
+       "game": "TOR @ ATH",
+       "date": "Sep 7, 2026 · Regular season",
+       "players": "Zack Gelof, Andrés Giménez, Vladimir Guerrero Jr.",
+       "description": "Zack Gelof grounds out, shortstop Andrés Giménez to first baseman Vladimir Guerrero Jr.",
+       "coaching_point": "1B gets to the bag early, squares to the thrower, and holds the stretch until the ball is on the way; reach to the ball, don't lunge early.",
+       "coach_notes": [],
+       "video": "clips/1B05.mp4",
+       "poster": "posters/1B05.jpg",
+       "duration": 12.22,
+       "drive_id": "1tb0Qj_6Ogf3Onkply9zQQswREwhegqhj",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field & throw",
+         "start": 4.4,
+         "end": 6.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: stretch & receive",
+         "start": 6.6,
+         "end": 8.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "1B06",
+       "title": "Long throw (3B)",
+       "game": "TOR @ BAL",
+       "date": "Sep 23, 2026 · Regular season",
+       "players": "Davis Schneider, Coby Mayo, Pete Alonso",
+       "description": "Davis Schneider grounds out, third baseman Coby Mayo to first baseman Pete Alonso.",
+       "coaching_point": "1B finds the bag, waits to commit, and stretches toward the throw to save the long throw from the left side.",
+       "coach_notes": [],
+       "video": "clips/1B06.mp4",
+       "poster": "posters/1B06.jpg",
+       "duration": 19.15,
+       "drive_id": "10Zmb_qaXYkNOe6B8MF9mfiNccP67j4ff",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: field & throw",
+         "start": 4.5,
+         "end": 7.2,
+         "confidence": "medium",
+         "note": "Wide shot; 3B is small in frame."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: stretch & receive",
+         "start": 7.3,
+         "end": 8.6,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "relays",
+     "name": "Relays & Cutoffs",
+     "intro": [],
+     "plays": [
+      {
+       "id": "REL01",
+       "title": "Relay home",
+       "game": "CLE @ KC",
+       "date": "Sep 25, 2026 · Regular season",
+       "players": "Angel Martínez, John Rave, Bobby Witt Jr, Carter Jensen",
+       "description": "Angel Martínez doubles (24) on a line drive to left fielder John Rave. José Ramírez scores. Chase DeLauter scores. Petey Halpin out at home on the throw, left fielder John Rave to shortstop Bobby Witt Jr. to catcher Carter Jensen.",
+       "coaching_point": "OF hits the cutoff; SS lines up, catches on the glove side, and makes a strong relay to the catcher for the tag.",
+       "coach_notes": [],
+       "video": "clips/REL01.mp4",
+       "poster": "posters/REL01.jpg",
+       "duration": 20.03,
+       "drive_id": "1IBKMVx1O7IDc10RzfwxmFslHHy-CC-p3",
+       "segments": [
+        {
+         "pos": "LF",
+         "label": "LF: field in the corner & throw to the cutoff",
+         "start": 5.5,
+         "end": 8.0,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & relay home",
+         "start": 10.0,
+         "end": 12.9,
+         "confidence": "low",
+         "note": "SS is tiny in a wide shot."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 12.8,
+         "end": 14.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "REL02",
+       "title": "Relay home",
+       "game": "DET @ CWS",
+       "date": "Sep 18, 2026 · Regular season",
+       "players": "Miguel Vargas, Riley Greene, Kevin McGonigle, Eduardo Valencia",
+       "description": "Miguel Vargas doubles (31) on a sharp line drive to left fielder Riley Greene. Colson Montgomery scores. Tristan Peters out at home on the throw, left fielder Riley Greene to shortstop Kevin McGonigle to catcher Eduardo Valencia.",
+       "coaching_point": "OF hits the cutoff; SS lines up, catches on the glove side, and makes a strong relay to the catcher for the tag.",
+       "coach_notes": [],
+       "video": "clips/REL02.mp4",
+       "poster": "posters/REL02.jpg",
+       "duration": 16.56,
+       "drive_id": "1bdz_B_C_qZhRKaEdvVa5xOtnP3ulacuY",
+       "segments": [
+        {
+         "pos": "LF",
+         "label": "LF: field & throw to the cutoff",
+         "start": 6.5,
+         "end": 9.7,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & relay home",
+         "start": 10.8,
+         "end": 12.0,
+         "confidence": "medium",
+         "note": "Camera cuts to the dugout and runner."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 11.8,
+         "end": 13.4,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "REL03",
+       "title": "Relay 3rd",
+       "game": "TB @ MIL",
+       "date": "Oct 23, 2026 · World Series",
+       "players": "David Hamilton, Victor Mesa Jr, Ben Williamson, Junior Caminero",
+       "description": "David Hamilton doubles (1) on a sharp line drive to right fielder Victor Mesa Jr. David Hamilton out at 3rd on the throw, right fielder Victor Mesa Jr. to second baseman Ben Williamson to third baseman Junior Caminero.",
+       "coaching_point": "Middle infielder lines up with the base, gets ready to throw before the catch, and relays on line to 3B.",
+       "coach_notes": [],
+       "video": "clips/REL03.mp4",
+       "poster": "posters/REL03.jpg",
+       "duration": 18.4,
+       "drive_id": "18LzKQJEV4ppJ7MOUnDeEjxG8DwtofIbb",
+       "segments": [
+        {
+         "pos": "RF",
+         "label": "RF: field off the wall & throw",
+         "start": 6.0,
+         "end": 10.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: relay to 3B",
+         "start": 9.8,
+         "end": 13.0,
+         "confidence": "low",
+         "note": "Relay not shown: the camera stays on the runner."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 12.4,
+         "end": 15.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "REL04",
+       "title": "Relay 3rd",
+       "game": "NYY @ TB",
+       "date": "Oct 3, 2026 · Division Series",
+       "players": "Austin Wells, Victor Mesa Jr, Taylor Walls, Junior Caminero",
+       "description": "Austin Wells doubles (1) on a sharp line drive to right fielder Victor Mesa Jr. Austin Wells out at 3rd on the throw, right fielder Victor Mesa Jr. to shortstop Taylor Walls to third baseman Junior Caminero.",
+       "coaching_point": "Middle infielder lines up with the base, gets ready to throw before the catch, and relays on line to 3B.",
+       "coach_notes": [],
+       "video": "clips/REL04.mp4",
+       "poster": "posters/REL04.jpg",
+       "duration": 18.41,
+       "drive_id": "1jqNt801j0VKY47bMlDOmMuaou-qvd-IY",
+       "segments": [
+        {
+         "pos": "RF",
+         "label": "RF: field in the corner & throw",
+         "start": 6.0,
+         "end": 10.3,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: relay to 3B",
+         "start": 12.9,
+         "end": 14.0,
+         "confidence": "medium"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 13.8,
+         "end": 15.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "REL05",
+       "title": "Relay home",
+       "game": "SEA @ LAA",
+       "date": "Sep 14, 2026 · Regular season",
+       "players": "Randy Arozarena, Jose Siri, Zach Neto, Travis d'Arnaud",
+       "description": "Randy Arozarena doubles (30) on a sharp line drive to center fielder Jose Siri. J.P. Crawford out at home on the throw, center fielder Jose Siri to shortstop Zach Neto to catcher Travis d'Arnaud.",
+       "coaching_point": "OF hits the cutoff; SS lines up, catches on the glove side, and makes a strong relay to the catcher for the tag.",
+       "coach_notes": [],
+       "video": "clips/REL05.mp4",
+       "poster": "posters/REL05.jpg",
+       "duration": 17.89,
+       "drive_id": "156JFHSlp-NmoMuUOFPogLXAxmZ2_EFRj",
+       "segments": [
+        {
+         "pos": "CF",
+         "label": "CF: field at the wall & throw",
+         "start": 6.5,
+         "end": 9.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: relay home",
+         "start": 9.2,
+         "end": 12.6,
+         "confidence": "low",
+         "note": "Camera cuts during the relay."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 13.3,
+         "end": 15.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "REL06",
+       "title": "Relay 3rd (CF-2B-3B)",
+       "game": "ATL @ HOU",
+       "date": "Sep 19, 2026 · Regular season",
+       "players": "Matt Olson, Daulton Varsho, Jose Altuve, Isaac Paredes",
+       "description": "Matt Olson singles on a sharp line drive to center fielder Daulton Varsho. Drake Baldwin scores. Ronald Acuña Jr. out at 3rd on the throw, center fielder Daulton Varsho to second baseman Jose Altuve to third baseman Isaac Paredes.",
+       "coaching_point": "Middle infielder lines up with the base, gets ready to throw before the catch, and relays on line to 3B.",
+       "coach_notes": [],
+       "video": "clips/REL06.mp4",
+       "poster": "posters/REL06.jpg",
+       "duration": 14.99,
+       "drive_id": "1YdaejIhCV4gS70JMlyILGQ2yO7xpvFTS",
+       "segments": [
+        {
+         "pos": "CF",
+         "label": "CF: field & throw",
+         "start": 5.0,
+         "end": 7.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: relay to 3B",
+         "start": 8.9,
+         "end": 10.3,
+         "confidence": "medium"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 10.2,
+         "end": 12.2,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "REL07",
+       "title": "Relay home",
+       "game": "CWS @ CLE",
+       "date": "Sep 14, 2026 · Regular season",
+       "players": "Kyle Teel, Angel Martínez, Brayan Rocchio, Patrick Bailey",
+       "description": "Kyle Teel doubles (3) on a sharp line drive to left fielder Angel Martínez. Colson Montgomery scores. Chase Meidroth scores. Randal Grichuk out at home on the throw, left fielder Angel Martínez to shortstop Brayan Rocchio to catcher Patrick Bailey.",
+       "coaching_point": "OF hits the cutoff; SS lines up, catches on the glove side, and makes a strong relay to the catcher for the tag.",
+       "coach_notes": [],
+       "video": "clips/REL07.mp4",
+       "poster": "posters/REL07.jpg",
+       "duration": 18.51,
+       "drive_id": "1ddjoYM5Imh7W5sEHEJN-VZo5eu7Nlt68",
+       "segments": [
+        {
+         "pos": "LF",
+         "label": "LF: dive, recover & throw",
+         "start": 5.0,
+         "end": 12.2,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: relay home",
+         "start": 11.9,
+         "end": 13.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 14.0,
+         "end": 15.8,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "part2",
+   "name": "Part 2",
+   "title": "Clip Library Part 2",
+   "categories": [
+    {
+     "id": "bunt",
+     "name": "Bunt Defense",
+     "intro": [],
+     "plays": [
+      {
+       "id": "BNT01",
+       "title": "Sac bunt fielded",
+       "game": "TB @ MIL",
+       "date": "Oct 24, 2026 · World Series",
+       "players": "Taylor Walls, Logan Henderson, Jake Bauers",
+       "description": "Taylor Walls out on a sacrifice bunt, pitcher Logan Henderson to first baseman Jake Bauers. Victor Mesa Jr. to 2nd.",
+       "coaching_point": "Corners charge, the fielder calls the ball, and the throw goes to the covering fielder at 1B; take the sure out.",
+       "coach_notes": [
+        "A pitcher-fielded bunt thrown to first is also a Pitcher Fielding Play (PFP)."
+       ],
+       "video": "clips/BNT01.mp4",
+       "poster": "posters/BNT01.jpg",
+       "duration": 13.57,
+       "drive_id": "1n09_mU0JdLt6fX5C1-76EZG7E6KzZrxi",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: field & throw to 1B",
+         "start": 4.4,
+         "end": 6.0,
+         "confidence": "medium",
+         "note": "Wide shot; pitcher is small in frame."
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 5.8,
+         "end": 7.4,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "BNT02",
+       "title": "Sac bunt fielded",
+       "game": "TB @ MIL",
+       "date": "Oct 24, 2026 · World Series",
+       "players": "Richie Palacios, David Hamilton, Brice Turang",
+       "description": "Richie Palacios out on a sacrifice bunt, third baseman David Hamilton to second baseman Brice Turang. Liam Hicks to 2nd.",
+       "coaching_point": "Corners charge, the fielder calls the ball, and the throw goes to the covering fielder at 1B; take the sure out.",
+       "coach_notes": [],
+       "video": "clips/BNT02.mp4",
+       "poster": "posters/BNT02.jpg",
+       "duration": 10.45,
+       "drive_id": "1Zsnu_tyuCtvLq8fwkJLZ5_31smFORbRm",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: charge, field & throw",
+         "start": 4.2,
+         "end": 6.0,
+         "confidence": "medium",
+         "note": "Wide shot; 3B is small in frame."
+        },
+        {
+         "pos": "2B",
+         "label": "2B: cover 1B & receive",
+         "start": 5.7,
+         "end": 7.5,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "BNT03",
+       "title": "Sac bunt fielded",
+       "game": "TB @ CLE",
+       "date": "Oct 18, 2026 · LCS",
+       "players": "Chandler Simpson, José Ramírez, Nathaniel Lowe",
+       "description": "Chandler Simpson out on a sacrifice bunt, third baseman José Ramírez to first baseman Nathaniel Lowe. Jorge Mateo to 2nd.",
+       "coaching_point": "Corners charge, the fielder calls the ball, and the throw goes to the covering fielder at 1B; take the sure out.",
+       "coach_notes": [
+        "Ramírez gets a really good read and sees the bunt coming.",
+        "He's playing deep, charges down the middle from deep, and adjusts his line because the ball is rolling, then bare-hands it."
+       ],
+       "video": "clips/BNT03.mp4",
+       "poster": "posters/BNT03.jpg",
+       "duration": 10.74,
+       "drive_id": "1lrA-VfePvyRz_wRtLiYcoXWC9z2gL0bI",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: read, charge & bare-hand throw",
+         "start": 4.3,
+         "end": 6.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.3,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "BNT04",
+       "title": "Bunt DP 1-5-4",
+       "game": "CWS @ DET",
+       "date": "Aug 15, 2026 · Regular season",
+       "players": "Jake Rogers, Troy Melton, Hao-Yu Lee, Gleyber Torres",
+       "description": "Jake Rogers ground bunts into a double play, pitcher Troy Melton to third baseman Hao-Yu Lee to second baseman Gleyber Torres. Chase Meidroth out at 3rd. Tristan Peters to 2nd. Jake Rogers out at 1st.",
+       "coaching_point": "Pitcher fields the bunt, gets the lead out at 3rd, and 3B turns two to 2B covering 1st.",
+       "coach_notes": [
+        "The bunt goes right back to the pitcher with men on 1st and 2nd. Get the lead out at 3rd, then turn two."
+       ],
+       "video": "clips/BNT04.mp4",
+       "poster": "posters/BNT04.jpg",
+       "duration": 11.86,
+       "drive_id": "1LAC-iGZdP1C9LoYSddQ-mfalI48eKgrD",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: field & throw to 3B",
+         "start": 5.3,
+         "end": 6.5,
+         "confidence": "low",
+         "note": "Single wide shot from behind home; fielders are small."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: force at 3rd & throw to 1st",
+         "start": 5.9,
+         "end": 7.3,
+         "confidence": "low",
+         "note": "3B is at the edge of a wide shot."
+        },
+        {
+         "pos": "2B",
+         "label": "2B: cover 1B & receive",
+         "start": 7.0,
+         "end": 8.8,
+         "confidence": "medium"
+        }
+       ]
+      },
+      {
+       "id": "BNT05",
+       "title": "Lead runner at 3rd (C to 3B)",
+       "game": "NYY @ AZ",
+       "date": "Sep 19, 2026 · Regular season",
+       "players": "Ryan McMahon, Gabriel Moreno, Nolan Arenado",
+       "description": "Ryan McMahon ground bunts into a force out, catcher Gabriel Moreno to third baseman Nolan Arenado. Austin Wells out at 3rd. Anthony Volpe to 2nd. Ryan McMahon to 1st.",
+       "coaching_point": "Bunt defense: catcher fields, reads the call (\"three!\"), and makes a quick throw to 3B, who is covering the bag for the force on the lead runner.",
+       "coach_notes": [
+        "Tough play: the catcher fields a short, poorly-touched bunt and makes a leaping throw on the run to third. Great throw."
+       ],
+       "video": "clips/BNT05.mp4",
+       "poster": "posters/BNT05.jpg",
+       "duration": 10.59,
+       "drive_id": "1tm-owdqZxgNyNNoMusdR4KQtMp1S4Py6",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: pounce, field & throw to 3B",
+         "start": 4.4,
+         "end": 6.2,
+         "confidence": "high"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: cover 3rd & receive for the force",
+         "start": 5.9,
+         "end": 7.3,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "BNT06",
+       "title": "Lead runner at 2nd (1B to SS)",
+       "game": "DET @ TOR",
+       "date": "Sep 14, 2026 · Regular season",
+       "players": "Zach McKinstry, Vladimir Guerrero Jr., Andrés Giménez",
+       "description": "Zach McKinstry ground bunts into a force out, first baseman Vladimir Guerrero Jr. to shortstop Andrés Giménez. Spencer Torkelson out at 2nd. Zach McKinstry to 1st.",
+       "coaching_point": "Bunt defense: 1B charges, fields with two hands, and throws to SS covering 2B for the lead-runner force.",
+       "coach_notes": [
+        "Hard bunt to first. The 1B goes after the lead runner at second."
+       ],
+       "video": "clips/BNT06.mp4",
+       "poster": "posters/BNT06.jpg",
+       "duration": 10.53,
+       "drive_id": "1Gb-PRYfzBxqcfJ91ViXhyPBHksQiF-Jf",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: charge, field & throw to 2B",
+         "start": 4.1,
+         "end": 6.1,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: cover 2B & receive for the force",
+         "start": 5.8,
+         "end": 7.5,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "pickoff",
+     "name": "Pickoffs & Rundowns",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PKO01",
+       "title": "Pickoff 1B",
+       "game": "NYM @ WSH",
+       "date": "Sep 26, 2026 · Regular season",
+       "players": "Pitcher Jake Irvin, Yohandy Morales",
+       "description": "Pitcher Jake Irvin picks off Juan Soto at 1st on throw to first baseman Yohandy Morales.",
+       "coaching_point": "Pitcher uses a quick, accurate pickoff move; 1B gives a low target and makes a quick tag.",
+       "coach_notes": [
+        "Irvin moves his front leg first on the pickoff move."
+       ],
+       "video": "clips/PKO01.mp4",
+       "poster": "posters/PKO01.jpg",
+       "duration": 7.5,
+       "drive_id": "1wCBvE9W4O8YLO4NO_NDDtYw5mqsis_iJ",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pickoff move to 1B",
+         "start": 2.2,
+         "end": 3.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive & tag",
+         "start": 3.0,
+         "end": 4.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PKO02",
+       "title": "Pickoff 2B",
+       "game": "ATH @ SEA",
+       "date": "Sep 5, 2026 · Regular season",
+       "players": "Pitcher George Kirby",
+       "description": "Pitcher George Kirby picks off Henry Bolte at 2nd on throw to shortstop J.P. Crawford.",
+       "coaching_point": "Pitcher and SS are timed on the daylight play; SS breaks to the bag and tags low.",
+       "coach_notes": [
+        "George Kirby picks to second with a really good spin move."
+       ],
+       "video": "clips/PKO02.mp4",
+       "poster": "posters/PKO02.jpg",
+       "duration": 8.2,
+       "drive_id": "1US52Q33cymQHLUs__EMcPh0FajGQCgTN",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: spin move to 2B",
+         "start": 2.4,
+         "end": 3.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: break to the bag, receive & tag",
+         "start": 3.2,
+         "end": 4.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PKO03",
+       "title": "Pickoff caught stealing 2B",
+       "game": "BAL @ NYM",
+       "date": "Sep 15, 2026 · Regular season",
+       "players": "Bo Bichette, Gunnar Henderson",
+       "description": "With Carson Benge batting, Bo Bichette picked off and caught stealing 2nd base, shortstop Gunnar Henderson.",
+       "coaching_point": "Runner is picked off and caught; the throw goes to the base ahead and fielders close the gap in the rundown.",
+       "coach_notes": [
+        "Left-handed pitcher picks to first, the first baseman makes a really good play, then throws to second to get the runner."
+       ],
+       "video": "clips/PKO03.mp4",
+       "poster": "posters/PKO03.jpg",
+       "duration": 6.83,
+       "drive_id": "17t7x9NKcn4poS0iGDkYEPULAaBsskz-H",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pickoff throw to 1B",
+         "start": 2.0,
+         "end": 3.3,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: throw to 2B",
+         "start": 3.1,
+         "end": 4.4,
+         "confidence": "medium",
+         "note": "The camera cuts as the pickoff arrives, so the 1B catch itself is not shown; this replay starts with him turning to throw."
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & tag at 2B",
+         "start": 4.2,
+         "end": 6.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PKO04",
+       "title": "Pickoff caught stealing 3B",
+       "game": "BOS @ TB",
+       "date": "Sep 19, 2026 · Regular season",
+       "players": "Cedric Mullins, Adley Rutschman, Trevor Story, Caleb Durbin",
+       "description": "Cedric Mullins picked off and caught stealing 3rd base, catcher Adley Rutschman to shortstop Trevor Story to third baseman Caleb Durbin.",
+       "coaching_point": "Runner caught off base: run him back, few throws, and tag with the ball in the bare hand inside the glove.",
+       "coach_notes": [
+        "Quick play. The catcher's throw and the shortstop's exchange were both really good."
+       ],
+       "video": "clips/PKO04.mp4",
+       "poster": "posters/PKO04.jpg",
+       "duration": 11.5,
+       "drive_id": "136oKh5NWTyCabc8bUthf1aHbJJXacpWT",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: receive & throw to 2B",
+         "start": 3.3,
+         "end": 4.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & exchange to 3B",
+         "start": 4.6,
+         "end": 6.4,
+         "confidence": "medium",
+         "note": "Wide shot; SS is small in frame."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 6.0,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PKO05",
+       "title": "Rundown",
+       "game": "LAA @ WSH",
+       "date": "Sep 11, 2026 · Regular season",
+       "players": "Moisés Ballesteros, Harry Ford, CJ Abrams, Brady House, Will Dion",
+       "description": "Moisés Ballesteros caught stealing 3rd base, catcher Harry Ford to shortstop CJ Abrams to third baseman Brady House to shortstop CJ Abrams to pitcher Will Dion. Christian Moore to 2nd.",
+       "coaching_point": "Rundown: run the runner back toward the base he came from, throw early and chest-high, and clear the lane after each throw.",
+       "coach_notes": [
+        "Catcher-to-SS throw behind the runner on a missed bunt is a classic baseball play.",
+        "They get him in a rundown and get the out; the exchange saves it."
+       ],
+       "video": "clips/PKO05.mp4",
+       "poster": "posters/PKO05.jpg",
+       "duration": 16.07,
+       "drive_id": "1NRzfcvAR1_iSXMTs5ZwMdziFM8xELLwe",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: throw behind the runner at 2B",
+         "start": 4.0,
+         "end": 5.0,
+         "confidence": "low",
+         "note": "Camera switches to a wide shot during the throw; catcher is tiny."
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive, run him back & throw to 3B",
+         "start": 5.2,
+         "end": 7.4,
+         "confidence": "medium"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & throw back to SS",
+         "start": 6.9,
+         "end": 9.4,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS (2nd touch): receive & throw to P covering 3B",
+         "start": 9.2,
+         "end": 11.6,
+         "confidence": "medium"
+        },
+        {
+         "pos": "P",
+         "label": "P: cover 3B, receive & tag",
+         "start": 11.0,
+         "end": 13.6,
+         "confidence": "medium"
+        }
+       ]
+      },
+      {
+       "id": "PKO06",
+       "title": "Rundown",
+       "game": "CWS @ STL",
+       "date": "Sep 11, 2026 · Regular season",
+       "players": "Brenton Doyle, Leo Bernal, Thomas Saggese, Alec Burleson, Masyn Winn",
+       "description": "Brenton Doyle caught stealing 2nd base, catcher Leo Bernal to second baseman Thomas Saggese to first baseman Alec Burleson to shortstop Masyn Winn.",
+       "coaching_point": "Rundown: ball-holder sprints at the runner with the ball up and shown, receivers close the gap, one throw if possible.",
+       "coach_notes": [
+        "Base-running lesson: watch how the runner gets caught breaking on the ball in the dirt.",
+        "Once he knows he's out and the ball is going to the SS, he starts running at the shortstop."
+       ],
+       "video": "clips/PKO06.mp4",
+       "poster": "posters/PKO06.jpg",
+       "duration": 15.4,
+       "drive_id": "1z3DQuLHveKT3e-o2aYMF4-LiHN0jtlbA",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: block the ball in the dirt & throw to 2B",
+         "start": 4.9,
+         "end": 6.4,
+         "confidence": "medium",
+         "note": "Throw happens across a camera cut."
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive, run at the runner & throw to 1B",
+         "start": 6.6,
+         "end": 9.2,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive, run him back & throw to SS",
+         "start": 8.9,
+         "end": 10.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & tag",
+         "start": 10.5,
+         "end": 12.4,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PKO07",
+       "title": "Rundown",
+       "game": "NYY @ MIN",
+       "date": "Sep 16, 2026 · Regular season",
+       "players": "Ryan Kreidler, John Schreiber, Anthony Volpe, Ryan McMahon, George Lombard Jr.",
+       "description": "Ryan Kreidler picked off and caught stealing 3rd base, pitcher John Schreiber to second baseman Anthony Volpe to third baseman Ryan McMahon to shortstop George Lombard Jr.",
+       "coaching_point": "Rundown off a pickoff: pitcher steps off and runs at the runner, then the infielders back each other up and finish with one late throw.",
+       "coach_notes": [
+        "Pickoff to second: the pitcher throws to the second baseman."
+       ],
+       "video": "clips/PKO07.mp4",
+       "poster": "posters/PKO07.jpg",
+       "duration": 12.05,
+       "drive_id": "1WChuNWCI71oJnf3d-xWoUTtVymYVlPPC",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pickoff to 2B",
+         "start": 2.2,
+         "end": 3.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive, chase & throw to 3B",
+         "start": 3.0,
+         "end": 5.6,
+         "confidence": "medium"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive, run him back & throw to SS",
+         "start": 5.1,
+         "end": 7.8,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & tag",
+         "start": 7.2,
+         "end": 9.1,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PKO08",
+       "title": "Rundown",
+       "game": "SEA @ COL",
+       "date": "Sep 18, 2026 · Regular season",
+       "players": "Cole Carrigg, Andrés Muñoz, Weston Wilson, J.P. Crawford",
+       "description": "Cole Carrigg caught stealing 3rd base, pitcher Andrés Muñoz to third baseman Weston Wilson to shortstop J.P. Crawford.",
+       "coaching_point": "Long rundown: keep the runner moving, everyone rotates to back up behind the throw, and the tagger catches it moving at the runner.",
+       "coach_notes": [
+        "Good inside move to second. The runner doesn't commit back to second, breaks for third, and they catch him.",
+        "Really good play to draw out."
+       ],
+       "video": "clips/PKO08.mp4",
+       "poster": "posters/PKO08.jpg",
+       "duration": 21.73,
+       "drive_id": "1jnwGikkIEYh13RzGb61hIw0oBUBS1dRb",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: inside move & throw to 3B",
+         "start": 2.4,
+         "end": 3.9,
+         "confidence": "medium",
+         "note": "Camera cuts during the throw."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive, run him back & throw to SS",
+         "start": 3.6,
+         "end": 7.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & tag",
+         "start": 6.8,
+         "end": 9.0,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "tag",
+     "name": "Tag Plays at Bases",
+     "intro": [],
+     "plays": [
+      {
+       "id": "TAG01",
+       "title": "Caught stealing 2B",
+       "game": "LAD @ MIL",
+       "date": "Oct 12, 2026 · LCS",
+       "players": "Cooper Pratt, Will Smith, Mookie Betts",
+       "description": "Cooper Pratt caught stealing 2nd base, catcher Will Smith to shortstop Mookie Betts.",
+       "coaching_point": "The middle infielder straddles the bag, catches, and makes a quick sweep tag low in front of the base.",
+       "coach_notes": [
+        "High-and-outside fastball gave the runner a reason to go and set up a really easy pop for the catcher.",
+        "The throw is right on the money."
+       ],
+       "video": "clips/TAG01.mp4",
+       "poster": "posters/TAG01.jpg",
+       "duration": 9.56,
+       "drive_id": "13yoFYXicGm2IWrDI3nTR1AyxYtCXKqNg",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: receive & throw to 2B",
+         "start": 3.2,
+         "end": 4.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & tag",
+         "start": 4.6,
+         "end": 6.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "TAG02",
+       "title": "Caught stealing 2B",
+       "game": "NYY @ SD",
+       "date": "Sep 4, 2026 · Regular season",
+       "players": "Jazz Chisholm Jr., Luis Campusano, Jake Cronenworth",
+       "description": "Jazz Chisholm Jr. caught stealing 2nd base, catcher Luis Campusano to second baseman Jake Cronenworth.",
+       "coaching_point": "The middle infielder straddles the bag, catches, and makes a quick sweep tag low in front of the base.",
+       "coach_notes": [
+        "Campusano sets up one knee down (right knee up, left knee down) for a pitch outside.",
+        "When the runner goes he flips his stance (left knee up, right foot behind) to throw. That move is money.",
+        "The ball is pulled back and Chisholm is tagged on the arm. He's out."
+       ],
+       "video": "clips/TAG02.mp4",
+       "poster": "posters/TAG02.jpg",
+       "duration": 9.42,
+       "drive_id": "1osDn82yUBWlDsZCxXNudr5yxSr5yFXON",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: stance flip & throw",
+         "start": 2.2,
+         "end": 4.8,
+         "confidence": "high",
+         "note": "Starts at Coach Cassady's 2.2 s stance-flip mark."
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive & tag",
+         "start": 5.0,
+         "end": 6.8,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "TAG03",
+       "title": "Caught stealing 3B",
+       "game": "WSH @ LAD",
+       "date": "Sep 4, 2026 · Regular season",
+       "players": "Nasim Nuñez, Will Smith, Max Muncy",
+       "description": "Nasim Nuñez caught stealing 3rd base, catcher Will Smith to third baseman Max Muncy.",
+       "coaching_point": "3B gets to the bag early, receives at the front edge, and makes a quick tag down.",
+       "coach_notes": [
+        "Catcher sets up outside looking for a momentum throw; the high-middle pitch holds him back a bit, but it's still a good momentum throw.",
+        "Runner: Nuñez gets his foot on the bag, then pulls it off. Keep contact on a dive.",
+        "3B: Muncy keeps the tag on and gets him when he comes off the bag. Never give up on a tag play."
+       ],
+       "video": "clips/TAG03.mp4",
+       "poster": "posters/TAG03.jpg",
+       "duration": 10.34,
+       "drive_id": "1yeI1yrHmEnHS_pNytTXg-WFa7JxjFP4r",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: momentum throw to 3B",
+         "start": 3.3,
+         "end": 4.6,
+         "confidence": "medium",
+         "note": "Camera switches to a wide shot as he throws."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive, tag & stay on it",
+         "start": 4.4,
+         "end": 7.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "TAG04",
+       "title": "Caught stealing 2B",
+       "game": "MIA @ KC",
+       "date": "Sep 3, 2026 · Regular season",
+       "players": "Bobby Witt Jr., Joe Mack, Otto Lopez",
+       "description": "Bobby Witt Jr. caught stealing 2nd base, catcher Joe Mack to shortstop Otto Lopez.",
+       "coaching_point": "The middle infielder straddles the bag, catches, and makes a quick sweep tag low in front of the base.",
+       "coach_notes": [
+        "Mack is one knee down with the left knee up, receives, and pops straight from that spot without resetting.",
+        "The throw is downhill and 'on the money': not on the bag, but to the shortstop.",
+        "Lopez receives in front of the bag; the throw arrives about 4 feet up the line and meets Witt as he slides in."
+       ],
+       "video": "clips/TAG04.mp4",
+       "poster": "posters/TAG04.jpg",
+       "duration": 9.19,
+       "drive_id": "1AyGax2kr7E8vO8pel7V7ZsG-ln4vDFlh",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: receive & pop from one knee",
+         "start": 3.3,
+         "end": 4.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive in front of the bag & tag",
+         "start": 4.8,
+         "end": 6.3,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "TAG05",
+       "title": "Caught stealing 3B",
+       "game": "MIL @ CHC",
+       "date": "Sep 1, 2026 · Regular season",
+       "players": "Jackson Chourio, Carson Kelly, Alex Bregman",
+       "description": "Jackson Chourio caught stealing 3rd base, catcher Carson Kelly to third baseman Alex Bregman.",
+       "coaching_point": "3B gets to the bag early, receives at the front edge, and makes a quick tag down.",
+       "coach_notes": [],
+       "video": "clips/TAG05.mp4",
+       "poster": "posters/TAG05.jpg",
+       "duration": 10.53,
+       "drive_id": "1Aa-MiEdRXfP5CEZ0Zbmf-NHSaZOUxy7i",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: receive & throw to 3B",
+         "start": 3.4,
+         "end": 4.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 4.6,
+         "end": 6.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "TAG06",
+       "title": "Caught stealing 2B",
+       "game": "NYM @ NYY",
+       "date": "Sep 13, 2026 · Regular season",
+       "players": "José Caballero, Francisco Alvarez, Francisco Lindor",
+       "description": "José Caballero caught stealing 2nd base, catcher Francisco Alvarez to shortstop Francisco Lindor.",
+       "coaching_point": "The middle infielder straddles the bag, catches, and makes a quick sweep tag low in front of the base.",
+       "coach_notes": [
+        "Catcher: right knee down; receives and pops up onto that same leg without resetting.",
+        "The throw is really up the line; Lindor gets the tag down with a really good swipe tag.",
+        "Finish the play: Lindor almost celebrated early with one hand up."
+       ],
+       "video": "clips/TAG06.mp4",
+       "poster": "posters/TAG06.jpg",
+       "duration": 9.36,
+       "drive_id": "1n2FXdfHMiu6ZuYz5YhgZ8kdXKXEDiwEd",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: receive & pop from the knee",
+         "start": 3.3,
+         "end": 4.5,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: reach & swipe tag",
+         "start": 4.4,
+         "end": 6.2,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "infield-in",
+     "name": "Infield-In & Runner on Third",
+     "intro": [
+      "Infield-in alignment: 1B inside the cut taking away the 4-hole · 2B taking away the cheap shot up the middle · SS taking away the 5-hole · 3B playing the line.",
+      "P covers the ball up the middle. Hitters are looking low and hard, so you cover low and hard."
+     ],
+     "plays": [
+      {
+       "id": "INF01",
+       "title": "Out at home",
+       "game": "TB @ CLE",
+       "date": "Oct 17, 2026 · LCS",
+       "players": "Ben Williamson, Nathaniel Lowe, Patrick Bailey",
+       "description": "Ben Williamson reaches on a fielder's choice out, first baseman Nathaniel Lowe to catcher Patrick Bailey. Chandler Simpson out at home. Junior Caminero to 3rd.",
+       "coaching_point": "Infield in: field it, check the runner, and throw low to the catcher for the out at home.",
+       "coach_notes": [
+        "The 1B plays inside the cut, taking away the 4-hole, handles the ball well, and makes a good throw.",
+        "The catcher is not in front of the plate as he receives. He comes from behind the plate, then puts his foot in front and swipe-tags."
+       ],
+       "video": "clips/INF01.mp4",
+       "poster": "posters/INF01.jpg",
+       "duration": 11.06,
+       "drive_id": "1wKyAt30YvmjU3xkYZ7bWhFl3vj077tmT",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: field & throw home",
+         "start": 4.1,
+         "end": 5.8,
+         "confidence": "medium",
+         "note": "Wide shot; 1B is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive, step in & swipe tag",
+         "start": 5.3,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "INF02",
+       "title": "Out at home",
+       "game": "CHC @ BOS",
+       "date": "Sep 25, 2026 · Regular season",
+       "players": "Dansby Swanson, Caleb Durbin, Mickey Gasper",
+       "description": "Dansby Swanson reaches on a fielder's choice out, third baseman Caleb Durbin to catcher Mickey Gasper. Matt Shaw out at home. Michael Busch to 2nd.",
+       "coaching_point": "Infield in: field it, check the runner, and throw low to the catcher for the out at home.",
+       "coach_notes": [
+        "The 3B is playing kind of deep, comes in well on the ball, makes a good transfer, and gets a receivable throw to the catcher.",
+        "The runner slides to the inside of the plate. The catcher's foot is in front of the plate and he swipe-tags (compare with INF01)."
+       ],
+       "video": "clips/INF02.mp4",
+       "poster": "posters/INF02.jpg",
+       "duration": 10.04,
+       "drive_id": "1EINcvPdGEnqrcAG-U0oMLwOMj74W7SZH",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: charge, field & throw home",
+         "start": 4.2,
+         "end": 6.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "C",
+         "label": "C: receive in front of the plate & tag",
+         "start": 5.6,
+         "end": 7.2,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "INF03",
+       "title": "Out at home",
+       "game": "CIN @ TOR",
+       "date": "Sep 25, 2026 · Regular season",
+       "players": "Ernie Clement, Oswaldo Cabrera, Jose Trevino",
+       "description": "Ernie Clement reaches on a fielder's choice out, shortstop Oswaldo Cabrera to catcher Jose Trevino. Kazuma Okamoto out at home. Nathan Lukes to 2nd.",
+       "coaching_point": "Infield in: field it, check the runner, and throw low to the catcher for the out at home.",
+       "coach_notes": [
+        "The SS is playing middle-in, gets a hard-hit ball, and makes a good feed to the catcher. Runner out easily."
+       ],
+       "video": "clips/INF03.mp4",
+       "poster": "posters/INF03.jpg",
+       "duration": 11.36,
+       "drive_id": "1kr6UJ2kOrHWT00JYZK_pMIbC-8_p0zOL",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field & feed home",
+         "start": 4.2,
+         "end": 6.3,
+         "confidence": "medium",
+         "note": "Wide shot; SS is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 6.0,
+         "end": 7.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "INF04",
+       "title": "Out at home",
+       "game": "TB @ NYY",
+       "date": "Sep 24, 2026 · Regular season",
+       "players": "José Caballero, Taylor Walls, Liam Hicks",
+       "description": "José Caballero reaches on a fielder's choice out, shortstop Taylor Walls to catcher Liam Hicks. Anthony Volpe out at home. Austin Wells to 3rd.",
+       "coaching_point": "Infield in: field it, check the runner, and throw low to the catcher for the out at home.",
+       "coach_notes": [
+        "Nice play: Walls fields on the run and throws to the catcher to get the runner coming from third."
+       ],
+       "video": "clips/INF04.mp4",
+       "poster": "posters/INF04.jpg",
+       "duration": 10.53,
+       "drive_id": "17-tbwuDJAyzwT0C6tkHYWqS0JBwQ2zlW",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field on the run & throw home",
+         "start": 4.7,
+         "end": 6.3,
+         "confidence": "medium",
+         "note": "Wide shot; SS is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 5.9,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "INF05",
+       "title": "Out at home (2B to C)",
+       "game": "ATL @ CHC",
+       "date": "Sep 15, 2026 · Regular season",
+       "players": "Pete Crow-Armstrong, Ozzie Albies, Drake Baldwin",
+       "description": "Pete Crow-Armstrong reaches on a fielder's choice out, second baseman Ozzie Albies to catcher Drake Baldwin. Matt Shaw out at home. Pedro Ramírez to 3rd.",
+       "coaching_point": "Infield in: field it, check the runner, and throw low to the catcher for the out at home.",
+       "coach_notes": [
+        "The 2B handles a hard-hit ball to his left, pivots, and makes a really good, sharp throw to the catcher."
+       ],
+       "video": "clips/INF05.mp4",
+       "poster": "posters/INF05.jpg",
+       "duration": 13.6,
+       "drive_id": "1xPUe91l0MsaK0Vs1LL56h7gG2Gp2djvX",
+       "segments": [
+        {
+         "pos": "2B",
+         "label": "2B: field to his left, pivot & throw home",
+         "start": 4.3,
+         "end": 5.9,
+         "confidence": "medium",
+         "note": "Wide shot; 2B is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 5.4,
+         "end": 7.0,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "INF06",
+       "title": "Out at home (1B to C)",
+       "game": "SD @ LAD",
+       "date": "Sep 23, 2026 · Regular season",
+       "players": "Dustin Harris, Freddie Freeman, Will Smith",
+       "description": "Dustin Harris reaches on a fielder's choice out, first baseman Freddie Freeman to catcher Will Smith. Freddy Fermin out at home. Fernando Tatis Jr. to 3rd.",
+       "coaching_point": "Infield in: field it, check the runner, and throw low to the catcher for the out at home.",
+       "coach_notes": [],
+       "video": "clips/INF06.mp4",
+       "poster": "posters/INF06.jpg",
+       "duration": 12.62,
+       "drive_id": "1_SCwg_r9ln88UJIWBwEINOImkxxcjWM1",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: field & throw home",
+         "start": 4.1,
+         "end": 6.2,
+         "confidence": "medium",
+         "note": "Wide shot; 1B is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 5.9,
+         "end": 7.4,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "postseason-2026",
+   "name": "Postseason 2026",
+   "title": "Postseason 2026",
+   "draft": true,
+   "categories": [
+    {
+     "id": "ps-bunt-defense",
+     "name": "Bunt Defense",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS01",
+       "title": "Sac bunt, runners 1st & 2nd",
+       "game": "Atlanta Braves @ Los Angeles Dodgers · NLDS 'B' Game 2",
+       "date": "Oct 4, 2026 · Top 8",
+       "players": "3B Max Muncy; 2B Tommy Edman",
+       "description": "With runners on 1st and 2nd and nobody out, the 3B charges the sacrifice bunt and throws to the 2B, who is covering first. The runners move up to 2nd and 3rd.",
+       "official_play": "Mike Yastrzemski out on a sacrifice bunt, third baseman Max Muncy to second baseman Tommy Edman. Brewer Hicklen to 3rd. Austin Riley to 2nd.",
+       "situation": "0 out, runners on 1B, 2B; ATL 3 - LAD 1 (after play)",
+       "coaching_point": "Standard (non-wheel) bunt coverage: the 3B and 1B crash, the SS holds at 2nd, and the 2B covers 1st, so nobody is covering 3rd. With the 3B charging and no one at the bag, there is no force at 3rd, so he takes the sure out at first. To get the lead runner at 3rd you need a wheel play, where the SS rotates over to cover 3rd.",
+       "coaching_point_status": "corrected",
+       "original_coaching_point": "With runners on 1st and 2nd, the corners crash and the 2B has to get to first. If the 3B can't get the lead runner, he takes the sure out at first; don't throw the ball away chasing the force at 3rd.",
+       "coach_notes": [],
+       "video": "clips/PS01.mp4",
+       "poster": "posters/PS01.jpg",
+       "duration": 10.41,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=7e67de8a-df24-36ff-9559-2c50f73291a9",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: charge, field & throw to 1B",
+         "start": 4.0,
+         "end": 6.3,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: cover 1B & receive",
+         "start": 6.2,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS02",
+       "title": "Bunt, force at lead base (1-6)",
+       "game": "Philadelphia Phillies @ Atlanta Braves · NL Wild Card 'A' Game 2",
+       "date": "Sep 30, 2026 · Top 9",
+       "players": "P Raisel Iglesias; SS Ha-Seong Kim",
+       "description": "In a tie game in the 9th, the pitcher fields the bunt and fires to the SS covering 2nd to get the lead runner.",
+       "official_play": "Justin Crawford ground bunts into a force out, pitcher Raisel Iglesias to shortstop Ha-Seong Kim. Derek Hill out at 2nd. Justin Crawford to 1st.",
+       "situation": "0 out, runners on 1B; PHI 3 - ATL 3 (after play)",
+       "coaching_point": "Pitcher: field it, open up to 2nd, and throw firmly to the bag. The catcher's call ('Two!' or 'One!') makes the decision. Taking the lead runner in a late, tight game is the play.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS02.mp4",
+       "poster": "posters/PS02.jpg",
+       "duration": 10.37,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=69808054-2eb4-388a-b6d3-a29efdb4e664",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: field & throw to 2B",
+         "start": 4.1,
+         "end": 6.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive at 2B for the force",
+         "start": 5.6,
+         "end": 6.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS03",
+       "title": "Bunt, force at lead base (2-6)",
+       "game": "Cleveland Guardians @ Tampa Bay Rays · ALCS Game 6",
+       "date": "Oct 19, 2026 · Bottom 6",
+       "players": "C Patrick Bailey; SS Brayan Rocchio",
+       "description": "The catcher pounces on the bunt in front of the plate and throws to the SS at 2nd to cut down the lead runner.",
+       "official_play": "Taylor Walls ground bunts into a force out, catcher Patrick Bailey to shortstop Brayan Rocchio. Richie Palacios out at 2nd. Taylor Walls to 1st.",
+       "situation": "0 out, runners on 1B; CLE 1 - TB 3 (after play)",
+       "coaching_point": "Catcher: come out low, scoop with both hands, and get the throw out to the infield side of the bag so the runner doesn't block the throw. The SS goes to the bag and stretches like a 1B.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS03.mp4",
+       "poster": "posters/PS03.jpg",
+       "duration": 10.96,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=0e6b13a1-077b-3773-a478-119bcdc9fcb6",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: pounce & throw to 2B",
+         "start": 4.2,
+         "end": 6.0,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive at 2B for the force",
+         "start": 6.0,
+         "end": 8.0,
+         "confidence": "medium",
+         "note": "Camera pans during the throw."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-pickoffs-rundowns",
+     "name": "Pickoffs & Rundowns",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS04",
+       "title": "LHP pickoff at 1st",
+       "game": "Cleveland Guardians @ Tampa Bay Rays · ALCS Game 2",
+       "date": "Oct 13, 2026 · Bottom 2",
+       "players": "P Parker Messick; 1B Nathaniel Lowe",
+       "description": "In the ALCS, with two outs, the left-hander picks off the runner at 1st with a throw to the 1B.",
+       "official_play": "Pitcher Parker Messick picks off Ben Williamson at 1st on throw to first baseman Nathaniel Lowe.",
+       "situation": "2 out, runners on 1B; CLE 0 - TB 0 (after play)",
+       "coaching_point": "LHP: keep the same look and leg lift as you do to the plate, and step clearly toward first so it isn't a balk. 1B: give a target at the knees on the bag side and tag straight down.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS04.mp4",
+       "poster": "posters/PS04.jpg",
+       "duration": 7.4,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=83ca8014-87eb-3423-ba23-00f3051f5f4f",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pickoff throw to 1B",
+         "start": 1.5,
+         "end": 3.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive & tag",
+         "start": 3.2,
+         "end": 4.8,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS05",
+       "title": "Pickoff into rundown (1-3-6-1-4)",
+       "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series Game 4",
+       "date": "Oct 27, 2026 · Bottom 4",
+       "players": "P JoJo Romero; 1B Jake Bauers; SS Cooper Pratt; 2B Brice Turang",
+       "description": "In World Series Game 4, the runner gets picked off 1st and breaks for 2nd. The rundown runs P to 1B to SS to P to 2B for the out.",
+       "official_play": "With Ryan Vilade batting, Chandler Simpson picked off and caught stealing 2nd base, second baseman Brice Turang.",
+       "situation": "2 out, runners on 1B; MIL 1 - TB 2 (after play)",
+       "coaching_point": "In a rundown, run the runner back toward the base he came from, hold the ball high, and use as few throws as possible. Each fielder follows his throw and the pitcher fills in behind.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS05.mp4",
+       "poster": "posters/PS05.jpg",
+       "duration": 14.31,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=384e4ea4-1500-36f2-a0de-5813926ce294",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pickoff throw to 1B",
+         "start": 2.5,
+         "end": 3.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive & throw to SS",
+         "start": 2.9,
+         "end": 6.0,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: chase & throw to P",
+         "start": 5.4,
+         "end": 8.9,
+         "confidence": "low",
+         "note": "Rundown is in a wide shot; handoffs are hard to see."
+        },
+        {
+         "pos": "P",
+         "label": "P (2nd touch): receive & throw to 2B",
+         "start": 8.3,
+         "end": 10.4,
+         "confidence": "medium"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive & tag",
+         "start": 10.0,
+         "end": 11.4,
+         "confidence": "medium"
+        }
+       ]
+      },
+      {
+       "id": "PS06",
+       "title": "Pickoff, runner breaks for 2nd (1-3-6)",
+       "game": "Philadelphia Phillies @ Atlanta Braves · NL Wild Card 'A' Game 1",
+       "date": "Sep 29, 2026 · Top 3",
+       "players": "P Chris Sale; 1B Matt Olson; SS Ha-Seong Kim",
+       "description": "Sale picks Trea Turner off 1st. Turner breaks for 2nd, and the 1B throws to the SS, who makes the tag.",
+       "official_play": "With Bryce Harper batting, Trea Turner picked off and caught stealing 2nd base, shortstop Ha-Seong Kim.",
+       "situation": "2 out, runners on 1B; PHI 1 - ATL 1 (after play)",
+       "coaching_point": "1B: when the runner breaks, step to the inside so you have a clear throwing lane and throw to the bag side. SS: straddle the bag and let the ball travel to the tag.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS06.mp4",
+       "poster": "posters/PS06.jpg",
+       "duration": 8.02,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=9097dac2-3acf-4259-94d0-0f56c96c4bd5",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: pickoff throw to 1B",
+         "start": 2.2,
+         "end": 3.2,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive & throw to SS",
+         "start": 2.9,
+         "end": 4.3,
+         "confidence": "high"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & tag",
+         "start": 4.1,
+         "end": 5.8,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS07",
+       "title": "1st & 3rd, runner from 3rd caught in rundown (1-2-5)",
+       "game": "Philadelphia Phillies @ Atlanta Braves · NL Wild Card 'A' Game 2",
+       "date": "Sep 30, 2026 · Top 1",
+       "players": "P Tyler Mahle; C Sean Murphy; 3B Austin Riley",
+       "description": "With runners on 1st and 3rd and one out, the pitcher fields a comeback grounder and traps the runner off 3rd. The runner is run down P to C to 3B.",
+       "official_play": "Bryson Stott reaches on a fielder's choice out, pitcher Tyler Mahle to catcher Sean Murphy to third baseman Austin Riley. Bryce Harper out at home. Alec Bohm to 2nd.",
+       "situation": "1 out, runners on 1B, 3B; PHI 1 - ATL 0 (after play)",
+       "coaching_point": "When a runner is caught between 3rd and home, chase him back toward 3rd, hold the ball up, and make one throw. The batter-runner gets to 2nd, so the trail runner always takes a base. Get the out at home first.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS07.mp4",
+       "poster": "posters/PS07.jpg",
+       "duration": 14.45,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=810576d5-8de4-3b62-9cb3-b6c012ee0af4",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: field the comebacker, run at the runner & throw to C",
+         "start": 4.3,
+         "end": 7.2,
+         "confidence": "medium"
+        },
+        {
+         "pos": "C",
+         "label": "C: chase & throw to 3B",
+         "start": 6.6,
+         "end": 10.2,
+         "confidence": "medium"
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 9.7,
+         "end": 11.3,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-tag-plays-at-bases",
+     "name": "Tag Plays at Bases",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS08",
+       "title": "Caught stealing 3rd (2-5)",
+       "game": "Tampa Bay Rays @ Milwaukee Brewers · World Series Game 1",
+       "date": "Oct 23, 2026 · Top 5",
+       "players": "C William Contreras; 3B David Hamilton",
+       "description": "In World Series Game 1, the runner tries to steal 3rd with two outs and gets thrown out by the catcher to the 3B.",
+       "official_play": "Victor Mesa Jr. caught stealing 3rd base, catcher William Contreras to third baseman David Hamilton.",
+       "situation": "2 out, runners on 2B; TB 1 - MIL 2 (after play)",
+       "coaching_point": "Catcher: clear the RH hitter (step behind or forward) and throw on a line. 3B: straddle the bag, catch, and tag down in front of the bag. Never make the third out at 3rd.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS08.mp4",
+       "poster": "posters/PS08.jpg",
+       "duration": 9.0,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=67cd16b5-f1d6-35e9-af93-74f1b3263f7b",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: throw to 3B",
+         "start": 3.6,
+         "end": 4.5,
+         "confidence": "low",
+         "note": "The camera cuts during the release."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 4.2,
+         "end": 5.8,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS09",
+       "title": "Caught stealing 2nd (2-6)",
+       "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series Game 3",
+       "date": "Oct 26, 2026 · Top 2",
+       "players": "C Nick Fortes; SS Taylor Walls",
+       "description": "In World Series Game 3, the catcher throws out the runner trying to steal 2nd, with the SS covering and tagging.",
+       "official_play": "Garrett Mitchell caught stealing 2nd base, catcher Nick Fortes to shortstop Taylor Walls.",
+       "situation": "2 out, runners on 1B; MIL 0 - TB 0 (after play)",
+       "coaching_point": "Quick transfer and a strong throw to the 1B side of the bag. The SS straddles the bag, catches with two hands, and swipe-tags down at the bag.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS09.mp4",
+       "poster": "posters/PS09.jpg",
+       "duration": 9.42,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=7e9a952b-8831-36ae-8944-2b08d03b9253",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: receive & throw to 2B",
+         "start": 3.3,
+         "end": 4.2,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & swipe tag",
+         "start": 4.2,
+         "end": 5.6,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-throws-home-plays-at-plate",
+     "name": "Throws Home & Plays at Plate",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS10",
+       "title": "LF throw home, collision and tag (upheld)",
+       "game": "Tampa Bay Rays @ Milwaukee Brewers · World Series Game 2",
+       "date": "Oct 24, 2026 · Top 6",
+       "players": "LF Jackson Chourio; C William Contreras",
+       "description": "In World Series Game 2, the LF charges a ground-ball single and throws a strike home. The catcher tags the runner out, and the out stands after challenges for collision and tag.",
+       "official_play": "Rays challenged (home-plate collision), call on the field was upheld: Rays challenged (tag play), call on the field was upheld: Victor Mesa Jr. singles on a ground ball to left fielder Jackson Chourio. Liam Hicks out at home on the throw, left fielder Jackson Chourio to catcher William Contreras.",
+       "situation": "2 out, runners on 2B; TB 4 - MIL 3 (after play)",
+       "coaching_point": "OF: charge the ball, field it glove-side, crow-hop and throw a one-hop strike through the cutoff man's head. Catcher: give a clear lane, catch, and sweep-tag low without blocking the plate before you have the ball.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS10.mp4",
+       "poster": "posters/PS10.jpg",
+       "duration": 14.0,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=ce5ab370-55c6-3fe8-af51-c0d9bafd5ec9",
+       "segments": [
+        {
+         "pos": "LF",
+         "label": "LF: charge, field & throw home",
+         "start": 4.4,
+         "end": 7.6,
+         "confidence": "medium",
+         "note": "Wide shot; LF is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag through the collision",
+         "start": 8.8,
+         "end": 10.9,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS11",
+       "title": "LF throw home on line drive",
+       "game": "Tampa Bay Rays @ Cleveland Guardians · ALCS Game 5, Makeup of 10/16",
+       "date": "Oct 18, 2026 · Top 4",
+       "players": "LF Steven Kwan; C Patrick Bailey",
+       "description": "In ALCS Game 5, Kwan charges the line-drive single and throws out the runner trying to score from 2nd.",
+       "official_play": "Jonathan Aranda singles on a sharp line drive to left fielder Steven Kwan. Taylor Walls out at home on the throw, left fielder Steven Kwan to catcher Patrick Bailey. Jonathan Aranda to 2nd.",
+       "situation": "1 out, runners on 1B, 2B; TB 3 - CLE 0 (after play)",
+       "coaching_point": "With one out, the LF plays shallow enough to keep the runner from scoring on a single. Momentum through the ball, a low throw on line, and the catcher sets up on the 3B side of the plate.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS11.mp4",
+       "poster": "posters/PS11.jpg",
+       "duration": 13.97,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=c263674b-583d-3572-aa56-612855d9e4e0",
+       "segments": [
+        {
+         "pos": "LF",
+         "label": "LF: charge & throw home",
+         "start": 5.4,
+         "end": 7.4,
+         "confidence": "high"
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 9.2,
+         "end": 11.2,
+         "confidence": "medium",
+         "note": "The throw arrives between camera cuts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-infield-in-runner-on-third",
+     "name": "Infield-In & Runner on Third",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS12",
+       "title": "Bases loaded, 2B to home for the force",
+       "game": "Cleveland Guardians @ Tampa Bay Rays · ALCS Game 6",
+       "date": "Oct 19, 2026 · Bottom 3",
+       "players": "2B Travis Bazzana; C Patrick Bailey",
+       "description": "With the bases loaded and nobody out in ALCS Game 6, the infield is in. The 2B fields the grounder and throws home for the force.",
+       "official_play": "Victor Mesa Jr. grounds into a force out, second baseman Travis Bazzana to catcher Patrick Bailey. Liam Hicks out at home. Junior Caminero to 3rd. Chandler Simpson to 2nd. Victor Mesa Jr. to 1st.",
+       "situation": "0 out, runners on 1B, 2B, 3B; CLE 0 - TB 2 (after play)",
+       "coaching_point": "With the infield in and the bases loaded, go home on the ground ball. Catcher: set up like a 1B with your foot on the plate and stretch toward the throw. It's a force, so no tag is needed.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS12.mp4",
+       "poster": "posters/PS12.jpg",
+       "duration": 10.97,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=a35d8d5e-b3a3-383d-89ba-844d120e69f9",
+       "segments": [
+        {
+         "pos": "2B",
+         "label": "2B: field & throw home",
+         "start": 4.4,
+         "end": 6.3,
+         "confidence": "low",
+         "note": "Wide shot; 2B is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: force at home",
+         "start": 6.0,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS13",
+       "title": "Bases loaded, SS to home, tag play (upheld)",
+       "game": "Tampa Bay Rays @ Milwaukee Brewers · World Series Game 2",
+       "date": "Oct 24, 2026 · Bottom 8",
+       "players": "SS Taylor Walls; C Nick Fortes",
+       "description": "In World Series Game 2, with the bases loaded and one out in the 8th, the SS fields the grounder and throws home. The out at the plate holds up after collision and tag challenges.",
+       "official_play": "Brewers challenged (home-plate collision), call on the field was upheld: Brewers challenged (tag play), call on the field was upheld: William Contreras reaches on a fielder's choice out, shortstop Taylor Walls to catcher Nick Fortes. Jackson Chourio out at home. Christian Yelich to 3rd.",
+       "situation": "1 out, runners on 1B, 2B, 3B; TB 4 - MIL 5 (after play)",
+       "coaching_point": "SS (infield in): field it through the ball, take a short step, and make a firm throw chest-high to the catcher's glove side. Catcher: receive it and make the tag/force without blocking the lane before you have the ball.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS13.mp4",
+       "poster": "posters/PS13.jpg",
+       "duration": 10.54,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=4b7b62cc-a8ee-3822-af49-c84707eb35de",
+       "segments": [
+        {
+         "pos": "SS",
+         "label": "SS: field & throw home",
+         "start": 4.3,
+         "end": 5.9,
+         "confidence": "medium",
+         "note": "Wide shot; SS is small in frame."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag",
+         "start": 5.7,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-double-plays",
+     "name": "Double Plays",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS14",
+       "title": "Home-to-first DP (3-2-3)",
+       "game": "Philadelphia Phillies @ Atlanta Braves · NL Wild Card 'A' Game 2",
+       "date": "Sep 30, 2026 · Bottom 6",
+       "players": "1B Alec Bohm; C J.T. Realmuto",
+       "description": "With one out and a runner on 3rd, the 1B charges the grounder, throws home for the out, and then takes the return throw at 1st for a 3-2-3 double play.",
+       "official_play": "Michael Harris II grounds into a double play, first baseman Alec Bohm to catcher J.T. Realmuto to first baseman Alec Bohm. Ozzie Albies out at home. Michael Harris II out at 1st.",
+       "situation": "1 out, runners on 3B; PHI 1 - ATL 1 (after play)",
+       "coaching_point": "1B: field it, throw home, and sprint back to the bag. Catcher: tag or force, then step out toward the infield to make a clean throw to first. It's a hustle and communication play.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS14.mp4",
+       "poster": "posters/PS14.jpg",
+       "duration": 11.81,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=d8f07422-8c19-34d9-a063-737fe46324b1",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: charge, field & throw home",
+         "start": 4.0,
+         "end": 5.8,
+         "confidence": "high"
+        },
+        {
+         "pos": "C",
+         "label": "C: receive at home & throw to 1B",
+         "start": 5.2,
+         "end": 6.9,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B (2nd touch): back to the bag & receive",
+         "start": 6.0,
+         "end": 8.0,
+         "confidence": "medium",
+         "note": "Motion blur on the catch."
+        }
+       ]
+      },
+      {
+       "id": "PS17",
+       "title": "3-6-3 double play",
+       "game": "Boston Red Sox @ New York Yankees · AL Wild Card 'B' Game 2",
+       "date": "Sep 30, 2026 · Bottom 4",
+       "players": "1B Willson Contreras; SS Trevor Story",
+       "description": "In the AL Wild Card, the 1B fields the grounder, throws to the SS at 2nd, and gets back to the bag for the return throw.",
+       "official_play": "Jazz Chisholm Jr. grounds into a double play, first baseman Willson Contreras to shortstop Trevor Story to first baseman Willson Contreras. Spencer Jones out at 2nd. Jazz Chisholm Jr. out at 1st.",
+       "situation": "1 out, runners on 1B; BOS 0 - NYY 1 (after play)",
+       "coaching_point": "1B: throw to the inside of the bag so you don't hit the runner, then hustle back and find the bag with your foot before you reach for the ball. SS: catch it and give a quick return throw chest-high to the 1B.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS17.mp4",
+       "poster": "posters/PS17.jpg",
+       "duration": 10.87,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=d163d4d3-b2e9-3dcd-901b-931f2671b4f4",
+       "segments": [
+        {
+         "pos": "1B",
+         "label": "1B: field & throw to SS",
+         "start": 4.2,
+         "end": 5.8,
+         "confidence": "medium"
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive at 2B & return throw",
+         "start": 5.6,
+         "end": 7.1,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B (2nd touch): back to the bag & receive",
+         "start": 6.8,
+         "end": 8.1,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS18",
+       "title": "5-4-3 double play",
+       "game": "Tampa Bay Rays @ Cleveland Guardians · ALCS Game 5, Makeup of 10/16",
+       "date": "Oct 18, 2026 · Top 3",
+       "players": "3B José Ramírez; 2B Travis Bazzana; 1B Nathaniel Lowe",
+       "description": "In ALCS Game 5, José Ramírez starts the double play from 3rd, Bazzana makes the turn at 2nd, and Lowe catches it at first.",
+       "official_play": "Ben Williamson grounds into a double play, third baseman José Ramírez to second baseman Travis Bazzana to first baseman Nathaniel Lowe. Liam Hicks out at 2nd. Ben Williamson out at 1st.",
+       "situation": "1 out, runners on 1B; TB 3 - CLE 0 (after play)",
+       "coaching_point": "3B: throw chest-high to the 2B, who should be coming across the bag. 2B: get to the bag early, catch on the move, and get out of the runner's way.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS18.mp4",
+       "poster": "posters/PS18.jpg",
+       "duration": 11.04,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=8b434083-9ed4-3c29-8e4b-d3e732d8a806",
+       "segments": [
+        {
+         "pos": "3B",
+         "label": "3B: field & throw to 2B",
+         "start": 4.2,
+         "end": 5.7,
+         "confidence": "medium",
+         "note": "Wide shot; 3B is small in frame."
+        },
+        {
+         "pos": "2B",
+         "label": "2B: receive, turn & throw",
+         "start": 5.6,
+         "end": 7.0,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 7.0,
+         "end": 8.2,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-relays-cutoffs",
+     "name": "Relays & Cutoffs",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS15",
+       "title": "Relay to 3rd (9-4-5)",
+       "game": "Chicago White Sox @ Cleveland Guardians · ALDS 'B' Game 5",
+       "date": "Oct 10, 2026 · Bottom 5",
+       "players": "RF Tristan Peters; 2B Chase Meidroth; 3B Miguel Vargas",
+       "description": "In ALDS Game 5, the batter doubles to right and tries to stretch it. The RF hits the 2B relay man, who throws to the 3B for the out.",
+       "official_play": "Petey Halpin doubles (1) on a line drive to right fielder Tristan Peters. Petey Halpin out at 3rd on the throw, right fielder Tristan Peters to second baseman Chase Meidroth to third baseman Miguel Vargas.",
+       "situation": "1 out, bases empty; CWS 0 - CLE 2 (after play)",
+       "coaching_point": "Relay man: line up between the ball and the base, give a big target, and turn glove-side to throw. The 3B straddles the bag and swipe-tags. A good relay beats a stretching runner.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS15.mp4",
+       "poster": "posters/PS15.jpg",
+       "duration": 18.79,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=be6fe639-0cd4-3bfa-858e-0ea18056ba0b",
+       "segments": [
+        {
+         "pos": "RF",
+         "label": "RF: field at the wall & throw to the relay",
+         "start": 7.0,
+         "end": 10.6,
+         "confidence": "high"
+        },
+        {
+         "pos": "2B",
+         "label": "2B: relay to 3B",
+         "start": 10.9,
+         "end": 12.4,
+         "confidence": "medium",
+         "note": "2B is small in a wide shot."
+        },
+        {
+         "pos": "3B",
+         "label": "3B: receive & tag",
+         "start": 12.9,
+         "end": 15.2,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS16",
+       "title": "Throw home through cutoffs (9-3-6-2)",
+       "game": "Tampa Bay Rays @ New York Yankees · ALDS 'A' Game 3",
+       "date": "Oct 7, 2026 · Top 3",
+       "players": "RF Spencer Jones; 1B Luis García Jr.; SS George Lombard Jr.; C Austin Wells",
+       "description": "In ALDS Game 3, the RF throws to the 1B cutoff man, and the ball goes on to the SS and then home. One run scores, but the runner trying to score from 1st is out at the plate.",
+       "official_play": "Jonathan Aranda singles on a sharp line drive to right fielder Spencer Jones. Jonny DeLuca scores. Taylor Walls out at home on the throw, right fielder Spencer Jones to first baseman Luis García Jr. to shortstop George Lombard Jr. to catcher Austin Wells.",
+       "situation": "2 out, runners on 1B, 2B; TB 1 - NYY 0 (after play)",
+       "coaching_point": "Cutoff and relay communication: 'Cut! Relay!' Every fielder reads the catcher's call and the lead runner, and the ball keeps moving to where the out is.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS16.mp4",
+       "poster": "posters/PS16.jpg",
+       "duration": 20.81,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=5a86f4af-dbbc-3ee3-a144-544c47d4cb61",
+       "segments": [
+        {
+         "pos": "RF",
+         "label": "RF: field & throw to the cutoff",
+         "start": 5.5,
+         "end": 7.4,
+         "confidence": "medium"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: cutoff, receive & throw to SS",
+         "start": 9.6,
+         "end": 11.4,
+         "confidence": "low",
+         "note": "Fielders are small and the handoff is hard to see."
+        },
+        {
+         "pos": "SS",
+         "label": "SS: receive & throw home",
+         "start": 10.9,
+         "end": 13.0,
+         "confidence": "low",
+         "note": "Fielders are small and the handoff is hard to see."
+        },
+        {
+         "pos": "C",
+         "label": "C: receive & tag at the plate",
+         "start": 12.6,
+         "end": 14.6,
+         "confidence": "medium",
+         "note": "A second angle of the play at the plate runs from about 15.5 s to 18.8 s."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ps-slow-rollers",
+     "name": "Slow Rollers",
+     "intro": [],
+     "plays": [
+      {
+       "id": "PS19",
+       "title": "Pitcher charges slow roller",
+       "game": "Chicago White Sox @ Cleveland Guardians · ALDS 'B' Game 1",
+       "date": "Oct 3, 2026 · Bottom 5",
+       "players": "P Anthony Kay; 1B Munetaka Murakami",
+       "description": "In ALDS Game 1, Kwan hits a soft roller. The pitcher comes off the mound, fields it, and throws to first.",
+       "official_play": "Steven Kwan grounds out softly, pitcher Anthony Kay to first baseman Munetaka Murakami.",
+       "situation": "0 out, bases empty; CWS 2 - CLE 0 (after play)",
+       "coaching_point": "Pitcher: finish your delivery in a fielding position, attack the ball, round off to first, and make a firm, accurate throw. A soft toss here can sail.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS19.mp4",
+       "poster": "posters/PS19.jpg",
+       "duration": 10.59,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=e02586bd-1164-365e-8229-bdf909224c04",
+       "segments": [
+        {
+         "pos": "P",
+         "label": "P: charge, field & throw",
+         "start": 4.0,
+         "end": 6.2,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.3,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "id": "PS20",
+       "title": "Catcher fields slow roller",
+       "game": "Atlanta Braves @ Los Angeles Dodgers · NLDS 'B' Game 2",
+       "date": "Oct 4, 2026 · Top 1",
+       "players": "C Will Smith; 1B Freddie Freeman",
+       "description": "Dodgers C Will Smith pops out from behind the plate on a soft roller and throws to 1B for the out.",
+       "official_play": "Drake Baldwin grounds out softly, catcher Will Smith to first baseman Freddie Freeman.",
+       "situation": "0 out, bases empty; ATL 0 - LAD 0 (after play)",
+       "coaching_point": "Catcher: get out quick, circle the ball to line up with first, and throw to the inside of the line so you don't hit the runner. Call it loud so the pitcher and the corner infielders peel off.",
+       "coaching_point_status": "draft",
+       "original_coaching_point": null,
+       "coach_notes": [],
+       "video": "clips/PS20.mp4",
+       "poster": "posters/PS20.jpg",
+       "duration": 10.68,
+       "savant_url": "https://baseballsavant.mlb.com/sporty-videos?playId=81b49453-31f7-38bc-8713-0dc0f3388620",
+       "segments": [
+        {
+         "pos": "C",
+         "label": "C: pop out, field & throw",
+         "start": 4.2,
+         "end": 6.3,
+         "confidence": "high"
+        },
+        {
+         "pos": "1B",
+         "label": "1B: receive at the bag",
+         "start": 6.3,
+         "end": 7.6,
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
