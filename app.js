@@ -91,9 +91,6 @@ function render(data){
     if(c.intro.length)sec.append($('div',{class:'cat-intro'},$('b',{text:c.intro_label||'NOTE'}),...c.intro.map(t=>$('p',{text:t}))));
     for(const p of c.plays){
       const {media,side}=makePlayer(p);
-      const st=p.coaching_point_status;
-      side.append($('h4',{},document.createTextNode('COACHING POINT'),st?$('span',{class:'badge '+st,text:st==='draft'?'DRAFT':'CORRECTED'}):null),$('p',{class:'point',text:p.coaching_point}));
-      if(p.original_coaching_point)side.append($('details',{class:'orig'},$('summary',{text:'Why it was changed'}),$('p',{text:'The draft said: "'+p.original_coaching_point+'" The video shows standard coverage with no one at 3rd, not a wheel play.'})));
       if(p.coach_notes.length)side.append($('h4',{text:"COACH CASSADY'S NOTES"}),$('ul',{class:'notes'},...p.coach_notes.map(n=>$('li',{text:n}))));
       if(p.situation)side.append($('p',{class:'players',text:'Situation: '+p.situation}));
       if(p.official_play)side.append($('p',{class:'players',text:'Official: '+p.official_play}));
