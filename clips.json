@@ -1190,6 +1190,471 @@
    ]
   },
   {
+   "id": "outfield-assists",
+   "name": "Outfield Assists",
+   "intro": [],
+   "intro_label": "NOTE",
+   "plays": [
+    {
+     "id": "OFA-2B-01",
+     "title": "Out at 2nd — Batter stretches a single (RF)",
+     "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series Game 3",
+     "date": "Oct 26, 2026 · Top 3",
+     "players": "William Contreras, Victor Mesa Jr., Taylor Walls",
+     "description": "William Contreras singles on a line drive to right fielder Victor Mesa Jr. Jake Bauers scores. William Contreras out at 2nd on the throw, right fielder Victor Mesa Jr. to shortstop Taylor Walls. Christian Yelich to 3rd.",
+     "coach_notes": [],
+     "video": "clips/OFA-2B-01.mp4",
+     "poster": "posters/OFA-2B-01.jpg",
+     "duration": 16.07,
+     "segments": [
+      {
+       "pos": "RF",
+       "label": "RF: field & throw",
+       "start": 7.2,
+       "end": 10.0,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & tag",
+       "start": 11.0,
+       "end": 14.2,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "OFA-2B-02",
+     "title": "Out at 2nd — Fly-ball DP, runner from 1st (CF)",
+     "game": "NYM @ CLE",
+     "date": "Aug 4, 2026 · Regular season",
+     "players": "A.J. Ewing, Steven Kwan, Travis Bazzana",
+     "description": "A.J. Ewing flies into a double play, center fielder Steven Kwan to second baseman Travis Bazzana. Luis Torrens out at 2nd.",
+     "coach_notes": [],
+     "video": "clips/OFA-2B-02.mp4",
+     "poster": "posters/OFA-2B-02.jpg",
+     "duration": 16.91,
+     "segments": [
+      {
+       "pos": "CF",
+       "label": "CF: field & throw",
+       "start": 9.5,
+       "end": 11.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "2B",
+       "label": "2B: receive & tag",
+       "start": 12.5,
+       "end": 15.0,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-2B-03",
+     "title": "Out at 2nd — Lineout, runner doubled off (LF)",
+     "game": "STL @ PIT",
+     "date": "Sep 23, 2026 · Regular season",
+     "players": "Nathan Church, Bryan Reynolds, Brandon Lowe",
+     "description": "Nathan Church lines into a double play, left fielder Bryan Reynolds to second baseman Brandon Lowe. Nolan Gorman out at 2nd.",
+     "coach_notes": [],
+     "video": "clips/OFA-2B-03.mp4",
+     "poster": "posters/OFA-2B-03.jpg",
+     "duration": 13.9,
+     "segments": [
+      {
+       "pos": "LF",
+       "label": "LF: field & throw",
+       "start": 6.8,
+       "end": 9.4,
+       "confidence": "high"
+      },
+      {
+       "pos": "2B",
+       "label": "2B: receive & tag",
+       "start": 9.8,
+       "end": 12.0,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-2B-04",
+     "title": "Out at 2nd — Batter overruns a double (RF)",
+     "game": "CIN @ CLE",
+     "date": "May 17, 2026 · Regular season",
+     "players": "Matt McLain, Angel Martínez, Travis Bazzana, Brayan Rocchio",
+     "description": "Matt McLain doubles (9) on a line drive to right fielder Angel Martínez. Matt McLain out at 2nd on the throw, right fielder Angel Martínez to second baseman Travis Bazzana to shortstop Brayan Rocchio. Blake Dunn to 3rd.",
+     "coach_notes": [],
+     "video": "clips/OFA-2B-04.mp4",
+     "poster": "posters/OFA-2B-04.jpg",
+     "duration": 19.03,
+     "segments": [
+      {
+       "pos": "RF",
+       "label": "RF: field & throw",
+       "start": 5.8,
+       "end": 8.6,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: tag at 2nd",
+       "start": 15.2,
+       "end": 17.6,
+       "confidence": "medium",
+       "note": "Camera cuts to the tag already underway. The 2B-to-SS toss is not shown."
+      }
+     ]
+    },
+    {
+     "id": "OFA-2B-05",
+     "title": "Out at 2nd — Fly-ball DP, throw home then 2nd (RF)",
+     "game": "BOS @ BAL",
+     "date": "Apr 24, 2026 · Regular season",
+     "players": "Carlos Narváez, Dylan Beavers, Adley Rutschman, Blaze Alexander",
+     "description": "Carlos Narváez flies into a double play, right fielder Dylan Beavers to catcher Adley Rutschman to shortstop Blaze Alexander. Marcelo Mayer out at 2nd.",
+     "coach_notes": [],
+     "video": "clips/OFA-2B-05.mp4",
+     "poster": "posters/OFA-2B-05.jpg",
+     "duration": 17.63,
+     "segments": [
+      {
+       "pos": "RF",
+       "label": "RF: field & throw",
+       "start": 7.8,
+       "end": 10.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & throw to 2B",
+       "start": 10.5,
+       "end": 12.2,
+       "confidence": "medium",
+       "note": "Wide shot; catcher is small in frame."
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & tag",
+       "start": 12.6,
+       "end": 15.8,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-3B-01",
+     "title": "Out at 3rd — 1st-to-3rd on a single (RF)",
+     "game": "San Diego Padres @ Milwaukee Brewers · Division Series",
+     "date": "Oct 4, 2026 · Top 7",
+     "players": "Ty France, Sal Frelick, David Hamilton",
+     "description": "Ty France singles on a ground ball to right fielder Sal Frelick. Fernando Tatis Jr. scores. Manny Machado out at 3rd on the throw, right fielder Sal Frelick to third baseman David Hamilton.",
+     "coach_notes": [],
+     "video": "clips/OFA-3B-01.mp4",
+     "poster": "posters/OFA-3B-01.jpg",
+     "duration": 14.22,
+     "segments": [
+      {
+       "pos": "RF",
+       "label": "RF: field & throw",
+       "start": 6.0,
+       "end": 8.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 9.3,
+       "end": 11.8,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "OFA-3B-02",
+     "title": "Out at 3rd — Batter stretches a double, relay (RF)",
+     "game": "Tampa Bay Rays @ Milwaukee Brewers · World Series Game 1",
+     "date": "Oct 23, 2026 · Bottom 5",
+     "players": "David Hamilton, Victor Mesa Jr., Ben Williamson, Junior Caminero",
+     "description": "David Hamilton doubles (1) on a sharp line drive to right fielder Victor Mesa Jr. David Hamilton out at 3rd on the throw, right fielder Victor Mesa Jr. to second baseman Ben Williamson to third baseman Junior Caminero.",
+     "coach_notes": [],
+     "video": "clips/OFA-3B-02.mp4",
+     "poster": "posters/OFA-3B-02.jpg",
+     "duration": 18.4,
+     "segments": [
+      {
+       "pos": "RF",
+       "label": "RF: field & throw",
+       "start": 8.0,
+       "end": 12.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "2B",
+       "label": "2B: receive & relay",
+       "start": 12.5,
+       "end": 13.7,
+       "confidence": "medium",
+       "note": "Relay is quick and the 2B is somewhat small in frame."
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 13.6,
+       "end": 16.2,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "OFA-3B-03",
+     "title": "Out at 3rd — Tag-up from 2nd on a fly (LF)",
+     "game": "MIN @ DET",
+     "date": "Sep 8, 2026 · Regular season",
+     "players": "Brooks Lee, Brett Callahan, Hao-Yu Lee",
+     "description": "Brooks Lee flies into a double play, left fielder Brett Callahan to third baseman Hao-Yu Lee. Luke Keaschall out at 3rd.",
+     "coach_notes": [],
+     "video": "clips/OFA-3B-03.mp4",
+     "poster": "posters/OFA-3B-03.jpg",
+     "duration": 16.35,
+     "segments": [
+      {
+       "pos": "LF",
+       "label": "LF: field & throw",
+       "start": 7.5,
+       "end": 10.8,
+       "confidence": "medium",
+       "note": "Throw is partly blocked by a player in the foreground."
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 11.3,
+       "end": 13.8,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-3B-04",
+     "title": "Out at 3rd — Lineout, runner doubled off (RF)",
+     "game": "CWS @ CHC",
+     "date": "Aug 19, 2026 · Regular season",
+     "players": "Pete Crow-Armstrong, Braden Montgomery, Miguel Vargas",
+     "description": "Pete Crow-Armstrong lines into a double play, right fielder Braden Montgomery to third baseman Miguel Vargas. Tyrone Taylor out at 3rd.",
+     "coach_notes": [],
+     "video": "clips/OFA-3B-04.mp4",
+     "poster": "posters/OFA-3B-04.jpg",
+     "duration": 13.98,
+     "segments": [
+      {
+       "pos": "RF",
+       "label": "RF: field & throw",
+       "start": 6.8,
+       "end": 9.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 9.3,
+       "end": 12.0,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-3B-05",
+     "title": "Out at 3rd — Batter stretches a double (LF)",
+     "game": "CWS @ NYY",
+     "date": "Jun 18, 2026 · Regular season",
+     "players": "Anthony Volpe, Junior Perez, Colson Montgomery",
+     "description": "Anthony Volpe doubles (5) on a sharp line drive to left fielder Junior Perez. Anthony Volpe out at 3rd on the throw, left fielder Junior Perez to third baseman Colson Montgomery.",
+     "coach_notes": [],
+     "video": "clips/OFA-3B-05.mp4",
+     "poster": "posters/OFA-3B-05.jpg",
+     "duration": 18.6,
+     "segments": [
+      {
+       "pos": "LF",
+       "label": "LF: field & throw",
+       "start": 8.5,
+       "end": 11.4,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 13.2,
+       "end": 16.2,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-HM-01",
+     "title": "Out at home — Tag-up on a fly (LF)",
+     "game": "SD @ LAD",
+     "date": "Sep 22, 2026 · Regular season",
+     "players": "Andy Pages, Dustin Harris, Luis Campusano",
+     "description": "Andy Pages flies into a double play, left fielder Dustin Harris to catcher Luis Campusano. Josue De Paula out at home.",
+     "coach_notes": [],
+     "video": "clips/OFA-HM-01.mp4",
+     "poster": "posters/OFA-HM-01.jpg",
+     "duration": 14.0,
+     "segments": [
+      {
+       "pos": "LF",
+       "label": "LF: field & throw",
+       "start": 6.5,
+       "end": 9.3,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & tag",
+       "start": 9.8,
+       "end": 12.2,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-HM-02",
+     "title": "Out at home — Runner from 2nd on a single (LF)",
+     "game": "Tampa Bay Rays @ Cleveland Guardians · ALCS Game 5, Makeup of 10/16",
+     "date": "Oct 18, 2026 · Top 4",
+     "players": "Jonathan Aranda, Steven Kwan, Patrick Bailey",
+     "description": "Jonathan Aranda singles on a sharp line drive to left fielder Steven Kwan. Taylor Walls out at home on the throw, left fielder Steven Kwan to catcher Patrick Bailey. Jonathan Aranda to 2nd.",
+     "coach_notes": [],
+     "video": "clips/OFA-HM-02.mp4",
+     "poster": "posters/OFA-HM-02.jpg",
+     "duration": 13.97,
+     "segments": [
+      {
+       "pos": "LF",
+       "label": "LF: field & throw",
+       "start": 5.8,
+       "end": 8.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & tag",
+       "start": 9.0,
+       "end": 11.6,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "OFA-HM-03",
+     "title": "Out at home — Runner from 2nd, relay (LF)",
+     "game": "CIN @ SF",
+     "date": "Aug 26, 2026 · Regular season",
+     "players": "Christian Koss, JJ Bleday, Elly De La Cruz, Jose Trevino",
+     "description": "Christian Koss singles on a sharp line drive to left fielder JJ Bleday. Andrew Knizner out at home on the throw, left fielder JJ Bleday to shortstop Elly De La Cruz to catcher Jose Trevino.",
+     "coach_notes": [],
+     "video": "clips/OFA-HM-03.mp4",
+     "poster": "posters/OFA-HM-03.jpg",
+     "duration": 18.01,
+     "segments": [
+      {
+       "pos": "LF",
+       "label": "LF: field & throw",
+       "start": 6.0,
+       "end": 8.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & relay",
+       "start": 8.3,
+       "end": 10.0,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & tag",
+       "start": 10.8,
+       "end": 13.0,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-HM-04",
+     "title": "Out at home — Runner from 1st on a double, relay (CF)",
+     "game": "SEA @ LAA",
+     "date": "Sep 14, 2026 · Regular season",
+     "players": "Randy Arozarena, Jose Siri, Zach Neto, Travis d'Arnaud",
+     "description": "Randy Arozarena doubles (30) on a sharp line drive to center fielder Jose Siri. J.P. Crawford out at home on the throw, center fielder Jose Siri to shortstop Zach Neto to catcher Travis d'Arnaud.",
+     "coach_notes": [],
+     "video": "clips/OFA-HM-04.mp4",
+     "poster": "posters/OFA-HM-04.jpg",
+     "duration": 17.89,
+     "segments": [
+      {
+       "pos": "CF",
+       "label": "CF: field & throw",
+       "start": 7.8,
+       "end": 10.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & relay",
+       "start": 12.0,
+       "end": 14.0,
+       "confidence": "low",
+       "note": "SS is tiny in a wide shot."
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & tag",
+       "start": 14.2,
+       "end": 16.8,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "OFA-HM-05",
+     "title": "Out at home — Lineout, runner thrown out (CF)",
+     "game": "AZ @ SEA",
+     "date": "May 31, 2026 · Regular season",
+     "players": "Julio Rodríguez, Ryan Waldschmidt, Aramis Garcia",
+     "description": "Julio Rodríguez lines into a double play, center fielder Ryan Waldschmidt to catcher Aramis Garcia. Jhonny Pereda out at home.",
+     "coach_notes": [],
+     "video": "clips/OFA-HM-05.mp4",
+     "poster": "posters/OFA-HM-05.jpg",
+     "duration": 13.04,
+     "segments": [
+      {
+       "pos": "CF",
+       "label": "CF: field & throw",
+       "start": 6.5,
+       "end": 9.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & tag",
+       "start": 9.5,
+       "end": 12.0,
+       "confidence": "high"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "bunt",
    "name": "Bunt Defense",
    "intro": [],
