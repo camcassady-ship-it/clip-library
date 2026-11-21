@@ -86,3 +86,51 @@ footer>span{letter-spacing:1.8px;font-weight:800;color:var(--hot)}footer p{margi
 .src-badge{display:inline-block;font-style:normal;font-size:10px;letter-spacing:1px;font-weight:800;color:#fff;background:#1f4e8c;padding:1px 6px;margin:0 2px;vertical-align:1px}
 .play.ps{border-top:3px solid #1f4e8c}
 .src-badge.pfp{background:#2f6fb5}
+
+.edit-toggle{margin-left:auto;color:#8a8a8a;font-size:11px;letter-spacing:.3px;text-decoration:underline;text-underline-offset:2px}
+.edit-toggle:hover,.edit-toggle[aria-pressed=true]{color:#ddd}
+.edit-bar{display:none;background:#efe8db;border-bottom:2px solid var(--orange);padding:10px 5%;font-size:14px;position:sticky;top:64px;z-index:25}
+body.editing .edit-bar{display:block}
+.edit-bar[hidden]{display:none!important}
+.edit-bar p{margin:0 0 8px}
+.edit-bar-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.edit-bar-actions button,.edit-dock button,.edit-fallback button,.seg-edit button{appearance:none;-webkit-appearance:none;border:1px solid var(--ink);background:#fff;color:var(--ink);min-height:44px;padding:6px 12px;font-size:13px;font-weight:700}
+.edit-bar-actions button.danger{border-color:#8a3a2a;color:#8a3a2a}
+#edit-count,.edit-status{font-size:13px;color:var(--muted);font-weight:600}
+.edit-status.err{color:#8a3a2a}
+.edit-fallback{display:none;position:fixed;left:12px;right:12px;bottom:calc(72px + env(safe-area-inset-bottom));z-index:50;max-height:50vh;overflow:auto;margin:0;padding:12px;background:#fff;border:2px solid var(--ink);box-shadow:0 8px 24px #0003}
+.edit-fallback:not([hidden]){display:block}
+.edit-fallback p{margin:0 0 6px;font-size:14px}
+.edit-fallback textarea{display:block;width:100%;min-height:140px;margin:6px 0;padding:8px;font:16px/1.4 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;border:1px solid var(--ink);background:#fff}
+.edit-dock{display:none;position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--ink);color:#fff;padding:10px 16px calc(10px + env(safe-area-inset-bottom));align-items:center;justify-content:space-between;gap:10px}
+body.editing .edit-dock{display:none}
+body.editing .cat-nav{top:calc(64px + var(--edit-bar-h,0px))}
+html{scroll-padding-top:calc(120px + var(--edit-bar-h,0px))}
+@media(max-width:820px){
+  body.editing .edit-dock:not([hidden]){display:flex}
+  body.editing{padding-bottom:72px}
+}
+.edit-dock button{background:var(--hot);border-color:var(--hot);color:var(--ink)}
+.seg-list{display:grid;gap:8px}
+body:not(.editing) .seg-edit,body:not(.editing) .edit-add,body:not(.editing) .edited-tag{display:none}
+.edit-add{width:100%;border:1px dashed #8a8f80;background:var(--field);color:var(--ink);min-height:44px;font-size:14px;font-weight:700}
+.edited-tag{display:none;margin-left:4px;padding:1px 6px;font-size:10px;letter-spacing:.8px;font-weight:800;text-transform:uppercase;color:#fff;background:var(--orange);flex-shrink:0}
+.editing .is-edited .edited-tag{display:inline-flex;align-items:center}
+.seg-edit{display:none;gap:10px;padding:10px;background:var(--field);border:1px solid var(--line);border-top:0}
+.editing .seg-edit{display:grid}
+.editing .seg-block .rb{border-bottom-color:transparent}
+.edit-id{display:grid;grid-template-columns:72px 1fr;gap:8px}
+.edit-pos,.edit-label{width:100%;min-height:44px;padding:8px;border:1px solid #bec2b5;background:#fff;font:16px/1.3 var(--sans);color:var(--ink)}
+.edit-bounds{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.edit-bound-h{display:flex;justify-content:space-between;align-items:baseline;font-size:12px;font-weight:700;margin-bottom:4px}
+.edit-val{font-variant-numeric:tabular-nums;font-weight:800}
+.edit-bound-btns{display:grid;grid-template-columns:1fr 52px 52px;gap:6px}
+.edit-bound-btns .nudge{padding:6px 0}
+.edit-actions{display:flex;flex-wrap:wrap;gap:6px}
+.edit-actions .preview{background:var(--ink);color:#fff;border-color:var(--ink)}
+.edit-remove{font-weight:600;color:var(--muted);border-color:#bec2b5}
+.edit-err{margin:0;color:#8a3a2a;font-size:13px;font-weight:700}
+.edit-err[hidden]{display:none}
+@media(max-width:520px){
+  .edit-bounds{grid-template-columns:1fr}
+}

@@ -10,3 +10,5 @@ Each play card has a **Full play** button plus one replay button per position th
 - Links: a section id (for example `#relays`) or a play id (for example `#ps01`). The old `#part1`, `#part2` and `#postseason-2026` links open the top of the page.
 
 The old Part 2 site (clip-library-part-2) redirects here.
+
+To adjust a fielder's start and end times, open `?edit=1` (or the small **Edit segments** link in the footer). Changes stay on that device until they are copied and applied to `clips.json`.
