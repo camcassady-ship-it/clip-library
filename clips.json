@@ -1655,6 +1655,297 @@
    ]
   },
   {
+   "id": "first-base-throws",
+   "name": "First Base Throws",
+   "intro": [
+    "Ordered 3-6, then 3-2, then 3-5."
+   ],
+   "intro_label": "NOTE",
+   "plays": [
+    {
+     "id": "1B36-01",
+     "title": "3-6-3 Double Play",
+     "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series",
+     "date": "Oct 28, 2026 · Top 7",
+     "players": "Jake Bauers, Jonathan Aranda, Taylor Walls",
+     "description": "Jake Bauers grounds into a double play, first baseman Jonathan Aranda to shortstop Taylor Walls. Jackson Chourio out at 2nd. Jake Bauers out at 1st.",
+     "coach_notes": [],
+     "video": "clips/1B36-01.mp4",
+     "poster": "posters/1B36-01.jpg",
+     "duration": 10.04,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.4,
+       "end": 4.7,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & throw",
+       "start": 4.8,
+       "end": 5.9,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: receive",
+       "start": 5.7,
+       "end": 6.7,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "1B36-02",
+     "title": "3-6 Force at Second, Batter Safe",
+     "game": "Tampa Bay Rays @ Cleveland Guardians · ALCS",
+     "date": "Oct 17, 2026 · Top 9",
+     "players": "Chandler Simpson, David Fry, Brayan Rocchio",
+     "description": "Chandler Simpson grounds into a force out, first baseman David Fry to shortstop Brayan Rocchio. Jonathan Aranda out at 2nd. Chandler Simpson to 1st.",
+     "coach_notes": [],
+     "video": "clips/1B36-02.mp4",
+     "poster": "posters/1B36-02.jpg",
+     "duration": 10.77,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.6,
+       "end": 4.7,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & force",
+       "start": 4.8,
+       "end": 6.0,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "1B36-03",
+     "title": "3-6-1 Double Play",
+     "game": "CIN @ TOR",
+     "date": "Sep 26, 2026 · Regular season",
+     "players": "Alejandro Kirk, Sal Stewart, Elly De La Cruz, Rhett Lowder",
+     "description": "Alejandro Kirk grounds into a double play, first baseman Sal Stewart to shortstop Elly De La Cruz to pitcher Rhett Lowder. Nathan Lukes out at 2nd. Alejandro Kirk out at 1st.",
+     "coach_notes": [],
+     "video": "clips/1B36-03.mp4",
+     "poster": "posters/1B36-03.jpg",
+     "duration": 11.07,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.8,
+       "end": 4.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & throw",
+       "start": 4.8,
+       "end": 5.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "P",
+       "label": "P: receive",
+       "start": 5.6,
+       "end": 6.6,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "1B32-01",
+     "title": "3-2 Tag at Home",
+     "game": "Tampa Bay Rays @ Cleveland Guardians · ALCS",
+     "date": "Oct 17, 2026 · Top 6",
+     "players": "Ben Williamson, Nathaniel Lowe, Patrick Bailey",
+     "description": "Ben Williamson reaches on a fielder's choice out, first baseman Nathaniel Lowe to catcher Patrick Bailey. Chandler Simpson out at home. Junior Caminero to 3rd.",
+     "coach_notes": [],
+     "video": "clips/1B32-01.mp4",
+     "poster": "posters/1B32-01.jpg",
+     "duration": 11.06,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.3,
+       "end": 4.7,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & tag",
+       "start": 4.8,
+       "end": 7.3,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "1B32-02",
+     "title": "3-2 Force at Home, Bases Loaded",
+     "game": "Cleveland Guardians @ Chicago White Sox · Division Series",
+     "date": "Oct 7, 2026 · Top 3",
+     "players": "Chase DeLauter, Munetaka Murakami, Kyle Teel",
+     "description": "Chase DeLauter grounds into a force out, first baseman Munetaka Murakami to catcher Kyle Teel. Brayan Rocchio out at home. Steven Kwan to 3rd. José Ramírez to 2nd. Chase DeLauter to 1st.",
+     "coach_notes": [],
+     "video": "clips/1B32-02.mp4",
+     "poster": "posters/1B32-02.jpg",
+     "duration": 11.07,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.8,
+       "end": 4.8,
+       "confidence": "medium",
+       "note": "Wide shot; 1B is small in frame."
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & force",
+       "start": 5.0,
+       "end": 7.4,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "1B32-03",
+     "title": "3-2-3 Double Play, Bases Loaded",
+     "game": "Philadelphia Phillies @ Atlanta Braves · Wild Card",
+     "date": "Sep 30, 2026 · Bottom 6",
+     "players": "Michael Harris II, Alec Bohm, J.T. Realmuto",
+     "description": "Michael Harris II grounds into a double play, first baseman Alec Bohm to catcher J.T. Realmuto to first baseman Alec Bohm. Ozzie Albies out at home. Michael Harris II out at 1st.",
+     "coach_notes": [],
+     "video": "clips/1B32-03.mp4",
+     "poster": "posters/1B32-03.jpg",
+     "duration": 11.81,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.8,
+       "end": 4.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "C",
+       "label": "C: receive & throw",
+       "start": 4.8,
+       "end": 5.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: receive",
+       "start": 5.6,
+       "end": 6.6,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "1B35-01",
+     "title": "3-5 Tag at Third, Runner from 2nd",
+     "game": "CIN @ MIL",
+     "date": "Sep 13, 2026 · Regular season",
+     "players": "Jose Trevino, Jake Bauers, Joey Ortiz",
+     "description": "Jose Trevino reaches on a fielder's choice out, first baseman Jake Bauers to third baseman Joey Ortiz. Juan Brito out at 3rd.",
+     "coach_notes": [],
+     "video": "clips/1B35-01.mp4",
+     "poster": "posters/1B35-01.jpg",
+     "duration": 9.96,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 4.0,
+       "end": 5.1,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 5.0,
+       "end": 7.8,
+       "confidence": "high",
+       "note": "A close-up of the tag follows the live play."
+      }
+     ]
+    },
+    {
+     "id": "1B35-02",
+     "title": "3-5 Bunt Force at 3rd",
+     "game": "NYY @ CHC",
+     "date": "Jul 31, 2026 · Regular season",
+     "players": "José Caballero, Michael Busch, Pedro Ramírez",
+     "description": "José Caballero ground bunts into a force out, first baseman Michael Busch to third baseman Pedro Ramírez. Spencer Jones out at 3rd. Austin Wells to 2nd. José Caballero to 1st.",
+     "coach_notes": [],
+     "video": "clips/1B35-02.mp4",
+     "poster": "posters/1B35-02.jpg",
+     "duration": 9.32,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 3.6,
+       "end": 4.6,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & force",
+       "start": 4.4,
+       "end": 6.0,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "1B35-03",
+     "title": "3-5 Tag at Third, Runner Caught Off",
+     "game": "ATH @ NYM",
+     "date": "Apr 10, 2026 · Regular season",
+     "players": "Jared Young, Nick Kurtz, Max Muncy",
+     "description": "Jared Young reaches on a fielder's choice out, first baseman Nick Kurtz to third baseman Max Muncy. Francisco Lindor out at 3rd. Bo Bichette to 2nd.",
+     "coach_notes": [],
+     "video": "clips/1B35-03.mp4",
+     "poster": "posters/1B35-03.jpg",
+     "duration": 13.04,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & throw",
+       "start": 4.0,
+       "end": 4.9,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 4.9,
+       "end": 11.6,
+       "confidence": "medium",
+       "note": "The live tag is small in the wide shot; a close-up follows."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "bunt",
    "name": "Bunt Defense",
    "intro": [],
