@@ -1,6 +1,6 @@
 # Byrd Baseball: Clip Library (Position Replays)
 
-Static site for William Byrd High School Baseball (Coach Cameron Cassady). It has 92 MLB clips from Baseball Savant, grouped by situation: Double Plays, PFP: Pitcher Fielding Plays (3-1, 1-3, 1-6/1-6-3, 1-5), Slow Rollers, Relays & Cutoffs, Outfield Assists, First Base Throws (3-6, 3-2, 3-5), Bunt Defense, Pickoffs & Rundowns, Tag Plays, Infield-In, and Throws Home. The 29 clips from the 2026 postseason carry a "Postseason 2026" badge. Coaching notes appear only where they come from Coach Cassady.
+Static site for William Byrd High School Baseball (Coach Cameron Cassady). It has 102 MLB clips from Baseball Savant, grouped by situation: Double Plays, PFP: Pitcher Fielding Plays (3-1, 1-3, 1-6/1-6-3, 1-5), Slow Rollers, Relays & Cutoffs, Outfield Assists, First Base Throws (3-6, 3-2, 3-5), Catcher Throw-Downs (caught stealing 2nd and 3rd), Bunt Defense, Pickoffs & Rundowns, Tag Plays, Infield-In, and Throws Home. The 35 clips from the 2026 postseason carry a "Postseason 2026" badge. Coaching notes appear only where they come from Coach Cassady.
 
 Each play card has a **Full play** button plus one replay button per position that touches the ball. A position button seeks within the single clip mp4 and plays only that window, at 1×, 0.5× or 0.25×, with optional looping.
 

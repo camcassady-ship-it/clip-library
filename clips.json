@@ -1946,6 +1946,302 @@
    ]
   },
   {
+   "id": "catcher-throw-downs",
+   "name": "Catcher Throw-Downs",
+   "intro": [
+    "Ordered caught stealing at 2nd, then caught stealing at 3rd."
+   ],
+   "intro_label": "NOTE",
+   "plays": [
+    {
+     "id": "CS2-01",
+     "title": "Caught Stealing 2nd — Strike-'em-out, Throw-'em-out (SS covers)",
+     "game": "Tampa Bay Rays @ Milwaukee Brewers · World Series",
+     "date": "Oct 23, 2026 · Top 6",
+     "players": "Jonathan Aranda, William Contreras, Cooper Pratt",
+     "description": "Chandler Simpson strikes out swinging and Jonathan Aranda caught stealing 2nd, catcher William Contreras to shortstop Cooper Pratt to catcher William Contreras.",
+     "coach_notes": [],
+     "video": "clips/CS2-01.mp4",
+     "poster": "posters/CS2-01.jpg",
+     "duration": 9.19,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.1,
+       "end": 4.3,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & tag",
+       "start": 4.8,
+       "end": 7.2,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "CS2-02",
+     "title": "Caught Stealing 2nd — Close Tag, Overturned on Review (2B covers)",
+     "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series",
+     "date": "Oct 27, 2026 · Top 9",
+     "players": "Cooper Pratt, Liam Hicks, Richie Palacios",
+     "description": "Rays challenged (tag play), call on the field was overturned: Cooper Pratt caught stealing 2nd base, catcher Liam Hicks to second baseman Richie Palacios.",
+     "coach_notes": [],
+     "video": "clips/CS2-02.mp4",
+     "poster": "posters/CS2-02.jpg",
+     "duration": 9.49,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.0,
+       "end": 4.3,
+       "confidence": "high"
+      },
+      {
+       "pos": "2B",
+       "label": "2B: receive & tag",
+       "start": 4.6,
+       "end": 7.4,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "CS2-03",
+     "title": "Caught Stealing 2nd — Pitchout (SS covers)",
+     "game": "CHC @ CIN",
+     "date": "Sep 18, 2026 · Regular season",
+     "players": "Michael Busch, Jose Trevino, Elly De La Cruz",
+     "description": "Umpire reviewed (tag play), call on the field was overturned: Michael Busch caught stealing 2nd base, catcher Jose Trevino to shortstop Elly De La Cruz.",
+     "coach_notes": [],
+     "video": "clips/CS2-03.mp4",
+     "poster": "posters/CS2-03.jpg",
+     "duration": 9.1,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.0,
+       "end": 4.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & tag",
+       "start": 5.0,
+       "end": 7.2,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "CS2-04",
+     "title": "Caught Stealing 2nd — Called Strike (SS covers)",
+     "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series",
+     "date": "Oct 26, 2026 · Top 2",
+     "players": "Garrett Mitchell, Nick Fortes, Taylor Walls",
+     "description": "Garrett Mitchell caught stealing 2nd base, catcher Nick Fortes to shortstop Taylor Walls.",
+     "coach_notes": [],
+     "video": "clips/CS2-04.mp4",
+     "poster": "posters/CS2-04.jpg",
+     "duration": 9.42,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.0,
+       "end": 4.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "SS",
+       "label": "SS: receive & tag",
+       "start": 4.7,
+       "end": 7.0,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "CS2-05",
+     "title": "Caught Stealing 2nd — Taken Ball (2B covers)",
+     "game": "Milwaukee Brewers @ Tampa Bay Rays · World Series",
+     "date": "Oct 26, 2026 · Bottom 1",
+     "players": "Chandler Simpson, William Contreras, Brice Turang",
+     "description": "Chandler Simpson caught stealing 2nd base, catcher William Contreras to second baseman Brice Turang.",
+     "coach_notes": [],
+     "video": "clips/CS2-05.mp4",
+     "poster": "posters/CS2-05.jpg",
+     "duration": 9.59,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.6,
+       "end": 4.4,
+       "confidence": "high"
+      },
+      {
+       "pos": "2B",
+       "label": "2B: receive & tag",
+       "start": 4.6,
+       "end": 7.2,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "CS3-01",
+     "title": "Caught Stealing 3rd — Straight Steal, Inning-Ending Tag",
+     "game": "Tampa Bay Rays @ Milwaukee Brewers · World Series",
+     "date": "Oct 23, 2026 · Top 5",
+     "players": "Victor Mesa Jr., William Contreras, David Hamilton",
+     "description": "Victor Mesa Jr. caught stealing 3rd base, catcher William Contreras to third baseman David Hamilton.",
+     "coach_notes": [],
+     "video": "clips/CS3-01.mp4",
+     "poster": "posters/CS3-01.jpg",
+     "duration": 9.0,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 3.2,
+       "end": 4.4,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 4.6,
+       "end": 7.0,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "CS3-02",
+     "title": "Caught Stealing 3rd — Close Tag, Overturned on Review",
+     "game": "Cleveland Guardians @ Chicago White Sox · Division Series",
+     "date": "Oct 8, 2026 · Top 6",
+     "players": "Chase DeLauter, Kyle Teel, Miguel Vargas",
+     "description": "White Sox challenged (tag play), call on the field was overturned: Chase DeLauter caught stealing 3rd base, catcher Kyle Teel to third baseman Miguel Vargas. Jo Adell to 2nd.",
+     "coach_notes": [],
+     "video": "clips/CS3-02.mp4",
+     "poster": "posters/CS3-02.jpg",
+     "duration": 9.72,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.1,
+       "end": 4.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 4.6,
+       "end": 7.2,
+       "confidence": "high"
+      }
+     ],
+     "source": "Postseason 2026"
+    },
+    {
+     "id": "CS3-03",
+     "title": "Caught Stealing 3rd — Clear Tag",
+     "game": "TEX @ MIN",
+     "date": "Sep 27, 2026 · Regular season",
+     "players": "Royce Lewis, Danny Jansen, Ezequiel Duran",
+     "description": "Austin Martin walks. Royce Lewis caught stealing 3rd base, catcher Danny Jansen to third baseman Ezequiel Duran.",
+     "coach_notes": [],
+     "video": "clips/CS3-03.mp4",
+     "poster": "posters/CS3-03.jpg",
+     "duration": 9.45,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.0,
+       "end": 4.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 5.2,
+       "end": 7.2,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "CS3-04",
+     "title": "Caught Stealing 3rd — Strike-'em-out, Throw-'em-out",
+     "game": "NYY @ SD",
+     "date": "Sep 4, 2026 · Regular season",
+     "players": "Spencer Jones, Luis Campusano, Manny Machado",
+     "description": "Heliot Ramos strikes out swinging and Spencer Jones caught stealing 3rd, catcher Luis Campusano to third baseman Manny Machado to catcher Luis Campusano.",
+     "coach_notes": [],
+     "video": "clips/CS3-04.mp4",
+     "poster": "posters/CS3-04.jpg",
+     "duration": 8.39,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.0,
+       "end": 4.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 5.2,
+       "end": 7.3,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "CS3-05",
+     "title": "Caught Stealing 3rd — Left-Handed Hitter (Squat)",
+     "game": "BOS @ TB",
+     "date": "Sep 19, 2026 · Regular season",
+     "players": "Caleb Durbin, Nick Fortes, Junior Caminero",
+     "description": "Caleb Durbin caught stealing 3rd base, catcher Nick Fortes to third baseman Junior Caminero.",
+     "coach_notes": [],
+     "video": "clips/CS3-05.mp4",
+     "poster": "posters/CS3-05.jpg",
+     "duration": 12.62,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw",
+       "start": 2.0,
+       "end": 4.2,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: receive & tag",
+       "start": 4.8,
+       "end": 7.2,
+       "confidence": "high"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "bunt",
    "name": "Bunt Defense",
    "intro": [],
