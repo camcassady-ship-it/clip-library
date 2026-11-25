@@ -837,6 +837,70 @@
    ]
   },
   {
+   "id": "backhand-range",
+   "name": "Backhand & Range",
+   "intro": [],
+   "intro_label": "NOTE",
+   "plays": [
+    {
+     "id": "RNG08",
+     "title": "3B range",
+     "game": "AZ @ SD",
+     "date": "Sep 26, 2026 · Regular season",
+     "players": "Manny Machado, Nolan Arenado, Pavin Smith",
+     "description": "Manny Machado grounds out, third baseman Nolan Arenado to first baseman Pavin Smith.",
+     "coach_notes": [],
+     "video": "clips/RNG08.mp4",
+     "poster": "posters/RNG08.jpg",
+     "duration": 18.21,
+     "segments": [
+      {
+       "pos": "3B",
+       "label": "3B: range, set & long throw",
+       "start": 4.5,
+       "end": 7.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: receive at the bag",
+       "start": 9.4,
+       "end": 11.3,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "RNG09",
+     "title": "SS hole",
+     "game": "KC @ COL",
+     "date": "Jul 31, 2026 · Regular season",
+     "players": "Tyler Freeman, Andrew Velazquez, Jac Caglianone",
+     "description": "Tyler Freeman grounds out, shortstop Andrew Velazquez to first baseman Jac Caglianone.",
+     "coach_notes": [],
+     "video": "clips/RNG09.mp4",
+     "poster": "posters/RNG09.jpg",
+     "duration": 11.32,
+     "segments": [
+      {
+       "pos": "SS",
+       "label": "SS: range in the hole, field & throw",
+       "start": 4.4,
+       "end": 6.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: receive at the bag",
+       "start": 7.0,
+       "end": 8.5,
+       "confidence": "high"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "relays",
    "name": "Relays & Cutoffs",
    "intro": [],
@@ -1946,6 +2010,102 @@
    ]
   },
   {
+   "id": "1b-picks-stretches",
+   "name": "1B Picks & Stretches",
+   "intro": [
+    "Ordered 3-1 feeds, then long throws."
+   ],
+   "intro_label": "NOTE",
+   "plays": [
+    {
+     "id": "1B07",
+     "title": "3-1 feed to covering P",
+     "game": "DET @ CWS",
+     "date": "Sep 20, 2026 · Regular season",
+     "players": "Andrew Benintendi, Spencer Torkelson, Troy Melton",
+     "description": "Andrew Benintendi grounds out, first baseman Spencer Torkelson to pitcher Troy Melton.",
+     "coach_notes": [],
+     "video": "clips/1B07.mp4",
+     "poster": "posters/1B07.jpg",
+     "duration": 10.94,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: field & underhand feed",
+       "start": 4.5,
+       "end": 6.7,
+       "confidence": "high"
+      },
+      {
+       "pos": "P",
+       "label": "P: cover 1B & receive",
+       "start": 5.0,
+       "end": 7.6,
+       "confidence": "medium",
+       "note": "Wide shot."
+      }
+     ]
+    },
+    {
+     "id": "1B08",
+     "title": "3-1 feed to covering P",
+     "game": "SD @ SF",
+     "date": "Sep 13, 2026 · Regular season",
+     "players": "Jung Hoo Lee, Jake Cronenworth, Nick Pivetta",
+     "description": "Jung Hoo Lee grounds out, first baseman Jake Cronenworth to pitcher Nick Pivetta.",
+     "coach_notes": [],
+     "video": "clips/1B08.mp4",
+     "poster": "posters/1B08.jpg",
+     "duration": 12.33,
+     "segments": [
+      {
+       "pos": "1B",
+       "label": "1B: dive, get up & feed",
+       "start": 4.0,
+       "end": 7.0,
+       "confidence": "high"
+      },
+      {
+       "pos": "P",
+       "label": "P: cover 1B & receive",
+       "start": 5.0,
+       "end": 8.2,
+       "confidence": "medium",
+       "note": "Wide shot."
+      }
+     ]
+    },
+    {
+     "id": "1B09",
+     "title": "Long throw (SS)",
+     "game": "STL @ COL",
+     "date": "Sep 6, 2026 · Regular season",
+     "players": "Adael Amador, Thomas Saggese, Alec Burleson",
+     "description": "Adael Amador grounds out, shortstop Thomas Saggese to first baseman Alec Burleson.",
+     "coach_notes": [],
+     "video": "clips/1B09.mp4",
+     "poster": "posters/1B09.jpg",
+     "duration": 12.0,
+     "segments": [
+      {
+       "pos": "SS",
+       "label": "SS: field & long throw",
+       "start": 4.4,
+       "end": 6.8,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: stretch & receive",
+       "start": 6.6,
+       "end": 8.3,
+       "confidence": "high"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "catcher-throw-downs",
    "name": "Catcher Throw-Downs",
    "intro": [
@@ -2432,6 +2592,34 @@
        "label": "3B: cover 3rd & receive for the force",
        "start": 5.9,
        "end": 7.3,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "BNT09",
+     "title": "Lead runner at 3rd (P to 3B)",
+     "game": "PIT @ LAD",
+     "date": "Aug 22, 2026 · Regular season",
+     "players": "Ben Rortvedt, Jared Jones, Nick Yorke",
+     "description": "Ben Rortvedt ground bunts into a force out, pitcher Jared Jones to third baseman Nick Yorke. Teoscar Hernández out at 3rd. Alek Thomas to 2nd. Ben Rortvedt to 1st.",
+     "coach_notes": [],
+     "video": "clips/BNT09.mp4",
+     "poster": "posters/BNT09.jpg",
+     "duration": 11.57,
+     "segments": [
+      {
+       "pos": "P",
+       "label": "P: charge, field & throw to 3B",
+       "start": 4.2,
+       "end": 6.3,
+       "confidence": "high"
+      },
+      {
+       "pos": "3B",
+       "label": "3B: cover 3rd & receive for the force",
+       "start": 5.8,
+       "end": 7.5,
        "confidence": "high"
       }
      ]
@@ -2933,6 +3121,62 @@
       }
      ],
      "source": "Postseason 2026"
+    },
+    {
+     "id": "PKO09",
+     "title": "Pickoff 1B",
+     "game": "ATH @ SEA",
+     "date": "Sep 4, 2026 · Regular season",
+     "players": "Pitcher Logan Gilbert, Josh Naylor",
+     "description": "Pitcher Logan Gilbert picks off Jeff McNeil at 1st on throw to first baseman Josh Naylor.",
+     "coach_notes": [],
+     "video": "clips/PKO09.mp4",
+     "poster": "posters/PKO09.jpg",
+     "duration": 7.37,
+     "segments": [
+      {
+       "pos": "P",
+       "label": "P: pickoff move to 1B",
+       "start": 2.6,
+       "end": 3.5,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: receive & tag",
+       "start": 3.3,
+       "end": 5.0,
+       "confidence": "high"
+      }
+     ]
+    },
+    {
+     "id": "PKO10",
+     "title": "Catcher pickoff 1B",
+     "game": "BAL @ TOR",
+     "date": "Sep 11, 2026 · Regular season",
+     "players": "Samuel Basallo, Vladimir Guerrero Jr., Pete Alonso",
+     "description": "Catcher Samuel Basallo picks off Vladimir Guerrero Jr. at 1st on throw to first baseman Pete Alonso.",
+     "coach_notes": [],
+     "video": "clips/PKO10.mp4",
+     "poster": "posters/PKO10.jpg",
+     "duration": 8.29,
+     "segments": [
+      {
+       "pos": "C",
+       "label": "C: catch & throw to 1B",
+       "start": 3.2,
+       "end": 4.6,
+       "confidence": "high"
+      },
+      {
+       "pos": "1B",
+       "label": "1B: receive & tag",
+       "start": 4.6,
+       "end": 7.0,
+       "confidence": "high"
+      }
+     ]
     }
    ]
   },

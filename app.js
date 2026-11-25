@@ -451,7 +451,7 @@ function wireEdit(){
 }
 
 wireEdit();
-fetch('clips.json?v=1795307804',{cache:'no-store'}).then(r=>r.json()).then(data=>{
+fetch('clips.json?v=1795616688',{cache:'no-store'}).then(r=>r.json()).then(data=>{
   snapshotOriginals(data);
   applyStoredEdits(data);
   DATA=data;render(data);
